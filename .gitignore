@@ -28,13 +28,13 @@ app/*.tsbuildinfo
 
 # API -------------------------
 # dependencies
-# api/node_modules/
+api/node_modules/
 # folders APP
-# api/identify_species/
-# api/known_faces/
+api/identify_species/
+api/known_faces/
 
 
 # IA -------------------------
 # folders APP
-# ia_service/identify_species/
-# ia_service/known_faces/
+ia_service/identify_species/
+ia_service/known_faces/
