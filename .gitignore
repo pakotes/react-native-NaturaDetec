@@ -1,0 +1,40 @@
+
+.vscode
+
+# APP -------------------------
+# dependencies
+app/node_modules/
+# Expo
+app/.expo/
+app/dist/
+app/web-build/
+app/expo-env.d.ts
+# Native
+app/.kotlin/
+app/*.orig.*
+app/*.jks
+app/*.p8
+app/*.p12
+app/*.key
+app/*.mobileprovision
+# Metro
+app/.metro-health-check*
+# debug
+app/npm-debug.*
+# local env files
+app/.env*.local
+# typescript
+app/*.tsbuildinfo
+
+# API -------------------------
+# dependencies
+# api/node_modules/
+# folders APP
+# api/identify_species/
+# api/known_faces/
+
+
+# IA -------------------------
+# folders APP
+# ia_service/identify_species/
+# ia_service/known_faces/

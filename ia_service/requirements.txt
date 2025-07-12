@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+face_recognition
+python-socketio[asyncio_server]
+pillow
+httpx
+torch
+torchvision
+scikit-learn
+asyncpg

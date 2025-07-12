@@ -1,0 +1,94 @@
+services:
+  db:
+    container_name: db_service
+    image: pgvector/pgvector:0.8.0-pg17
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=senha123
+      - POSTGRES_DB=projeto
+    ports:
+      - 5432:5432
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./api/db/sql.init:/docker-entrypoint-initdb.d 
+
+  smtp:
+    container_name: mail_service
+    image: maildev/maildev
+    ports:
+      - "1080:1080"   # Web UI (http://localhost:1080)
+      - "1025:1025"   # Porta SMTP
+
+  ia_service:
+    container_name: ia_service
+    build:
+      context: ./ia_service
+      dockerfile: Dockerfile
+    image: ia_service:0.9.3
+    environment:
+      - IA_SERVICE_PORT=8000
+      - KNOWN_FACES_DIR=known_faces
+      - IDENTIFY_SPECIES_DIR=identify_species
+      - SPECIES_MODEL_PATH=dataset/species_model.pt
+      - SPECIES_MAP_PATH=dataset/species_taxon_map.json
+      - OLLAMA_URL=http://llm_service:11434
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=projeto
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=senha123
+    volumes:
+      - ./ia_service/known_faces:/app/known_faces
+      - ./ia_service/identify_species:/app/identify_species
+      - ./ia_service/dataset:/app/dataset
+      - ./ia_service/main.py:/app/main.py
+    ports:
+      - 8000:8000
+
+  llm_service :
+    container_name: llm_service
+    build:
+      context: ./llm_service
+      dockerfile: Dockerfile
+    image: llm_ollama:latest
+    restart: unless-stopped
+    ports:
+      - 11434:11434
+    volumes:
+      - ollama_data:/root/.ollama
+    environment:
+      - OLLAMA_MODELS=/root/.ollama/models
+
+  api:
+    container_name: api
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    image: api:0.9.3
+    volumes:
+      - ./api:/app
+      - /app/node_modules
+      - ./ia_service/known_faces:/app/known_faces
+      - ./ia_service/identify_species:/app/identify_species
+    ports:
+      - 3000:3000
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USER=postgres
+      - DB_PASSWORD=senha123
+      - DB_NAME=projeto
+      - JWT_SECRET=A1s2D3F87hygFDEg6&h8ityr%8
+      - IA_SERVICE_URL=http://ia_service:8000
+      - KNOWN_FACES_DIR=/app/known_faces
+      - URL_PUBLIC_INATURE=https://api.inaturalist.org/v1/
+      - IDENTIFY_SPECIES_DIR=/app/identify_species 
+      - OPENROUTER_API_KEY=00000000000000000000000000000000000000000
+      - MODEL_LLM_PUBLIC=deepseek/deepseek-r1-distill-llama-70b:free
+    depends_on:
+      - db
+      - ia_service
+
+volumes:
+  pgdata:
+  ollama_data:

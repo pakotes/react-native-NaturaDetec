@@ -1,0 +1,4602 @@
+[
+  {
+    "class_name": "10069",
+    "taxon_id": "10069",
+    "sci_name": "Fringilla montifringilla",
+    "common_name": "Tentilhão-montês",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brambling"
+  },
+  {
+    "class_name": "10070",
+    "taxon_id": "10070",
+    "sci_name": "Fringilla coelebs",
+    "common_name": "Tentilhão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_chaffinch"
+  },
+  {
+    "class_name": "10227",
+    "taxon_id": "10227",
+    "sci_name": "Passerina cyanea",
+    "common_name": "Mariposa-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Indigo_bunting"
+  },
+  {
+    "class_name": "10247",
+    "taxon_id": "10247",
+    "sci_name": "Setophaga ruticilla",
+    "common_name": "Mariquita-de-rabo-vermelho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_redstart"
+  },
+  {
+    "class_name": "10271",
+    "taxon_id": "10271",
+    "sci_name": "Pheucticus ludovicianus",
+    "common_name": "Realejo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rose-breasted_grosbeak"
+  },
+  {
+    "class_name": "10286",
+    "taxon_id": "10286",
+    "sci_name": "Mniotilta varia",
+    "common_name": "Riscadinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-and-white_warbler"
+  },
+  {
+    "class_name": "10411",
+    "taxon_id": "10411",
+    "sci_name": "Loxia curvirostra",
+    "common_name": "Cruza-bico",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_crossbill"
+  },
+  {
+    "class_name": "10431",
+    "taxon_id": "10431",
+    "sci_name": "Oporornis agilis",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Connecticut_warbler"
+  },
+  {
+    "class_name": "10487",
+    "taxon_id": "10487",
+    "sci_name": "Dolichonyx oryzivorus",
+    "common_name": "Triste-pia",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bobolink"
+  },
+  {
+    "class_name": "1096",
+    "taxon_id": "1096",
+    "sci_name": "Lophura nycthemera",
+    "common_name": "Faisão-prateado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Silver_pheasant"
+  },
+  {
+    "class_name": "111450",
+    "taxon_id": "111450",
+    "sci_name": "Pyrrhula murina",
+    "common_name": "Priôlo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Azores_bullfinch"
+  },
+  {
+    "class_name": "1142485",
+    "taxon_id": "1142485",
+    "sci_name": "Carduelis carduelis × Serinus canaria",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "116791",
+    "taxon_id": "116791",
+    "sci_name": "Acrocephalus agricola",
+    "common_name": "Felosa-agrícola",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Paddyfield_warbler"
+  },
+  {
+    "class_name": "116804",
+    "taxon_id": "116804",
+    "sci_name": "Acrocephalus schoenobaenus",
+    "common_name": "Felosa-dos-juncos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sedge_warbler"
+  },
+  {
+    "class_name": "116840",
+    "taxon_id": "116840",
+    "sci_name": "Calcarius lapponicus",
+    "common_name": "Escrevedeira-da-lapónia",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lapland_longspur"
+  },
+  {
+    "class_name": "116858",
+    "taxon_id": "116858",
+    "sci_name": "Cettia cetti",
+    "common_name": "Rouxinol-bravo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cetti's_warbler"
+  },
+  {
+    "class_name": "116918",
+    "taxon_id": "116918",
+    "sci_name": "Hippolais icterina",
+    "common_name": "Felosa-amarela",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Icterine_warbler"
+  },
+  {
+    "class_name": "116923",
+    "taxon_id": "116923",
+    "sci_name": "Hippolais polyglotta",
+    "common_name": "Felosa-poliglota",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Melodious_warbler"
+  },
+  {
+    "class_name": "116940",
+    "taxon_id": "116940",
+    "sci_name": "Locustella luscinioides",
+    "common_name": "Cigarrinha-ruiva",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Savi's_warbler"
+  },
+  {
+    "class_name": "116941",
+    "taxon_id": "116941",
+    "sci_name": "Locustella naevia",
+    "common_name": "Cigarrinha-malhada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_grasshopper_warbler"
+  },
+  {
+    "class_name": "116993",
+    "taxon_id": "116993",
+    "sci_name": "Nymphicus hollandicus",
+    "common_name": "Cocatiel",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cockatiel"
+  },
+  {
+    "class_name": "116999",
+    "taxon_id": "116999",
+    "sci_name": "Pandion haliaetus",
+    "common_name": "Águia-pesqueira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Osprey"
+  },
+  {
+    "class_name": "117007",
+    "taxon_id": "117007",
+    "sci_name": "Phylloscopus bonelli",
+    "common_name": "Felosa-de-papo-branco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_Bonelli's_warbler"
+  },
+  {
+    "class_name": "117016",
+    "taxon_id": "117016",
+    "sci_name": "Phylloscopus collybita",
+    "common_name": "Felosinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_chiffchaff"
+  },
+  {
+    "class_name": "117022",
+    "taxon_id": "117022",
+    "sci_name": "Phylloscopus fuscatus",
+    "common_name": "Felosa-sombria",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dusky_warbler"
+  },
+  {
+    "class_name": "117026",
+    "taxon_id": "117026",
+    "sci_name": "Phylloscopus humei",
+    "common_name": "Felosa-listada-de-hume",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hume's_leaf_warbler"
+  },
+  {
+    "class_name": "117027",
+    "taxon_id": "117027",
+    "sci_name": "Phylloscopus ibericus",
+    "common_name": "Felosinha-ibérica",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Iberian_chiffchaff"
+  },
+  {
+    "class_name": "117028",
+    "taxon_id": "117028",
+    "sci_name": "Phylloscopus inornatus",
+    "common_name": "Felosa-listada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-browed_warbler"
+  },
+  {
+    "class_name": "117041",
+    "taxon_id": "117041",
+    "sci_name": "Phylloscopus proregulus",
+    "common_name": "Felosa-de-pallas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pallas's_leaf_warbler"
+  },
+  {
+    "class_name": "117048",
+    "taxon_id": "117048",
+    "sci_name": "Phylloscopus sibilatrix",
+    "common_name": "Felosa-assobiadeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Wood_warbler"
+  },
+  {
+    "class_name": "117055",
+    "taxon_id": "117055",
+    "sci_name": "Phylloscopus trochilus",
+    "common_name": "Felosa-musical",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Willow_warbler"
+  },
+  {
+    "class_name": "117059",
+    "taxon_id": "117059",
+    "sci_name": "Plectrophenax nivalis",
+    "common_name": "Escrevedeira-das-neves",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snow_bunting"
+  },
+  {
+    "class_name": "117078",
+    "taxon_id": "117078",
+    "sci_name": "Pterocles alchata",
+    "common_name": "Ganga",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pin-tailed_sandgrouse"
+  },
+  {
+    "class_name": "117088",
+    "taxon_id": "117088",
+    "sci_name": "Pterocles orientalis",
+    "common_name": "Cortiçol-de-barriga-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-bellied_sandgrouse"
+  },
+  {
+    "class_name": "117097",
+    "taxon_id": "117097",
+    "sci_name": "Regulus ignicapilla",
+    "common_name": "Estrelinha-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_firecrest"
+  },
+  {
+    "class_name": "117181",
+    "taxon_id": "117181",
+    "sci_name": "Acrocephalus paludicola",
+    "common_name": "Felosa-aquática",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aquatic_warbler"
+  },
+  {
+    "class_name": "11858",
+    "taxon_id": "11858",
+    "sci_name": "Petrochelidon pyrrhonota",
+    "common_name": "Andorinha-de-testa-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_cliff_swallow"
+  },
+  {
+    "class_name": "11901",
+    "taxon_id": "11901",
+    "sci_name": "Hirundo rustica",
+    "common_name": "Andorinha-das-chaminés",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Barn_swallow"
+  },
+  {
+    "class_name": "11935",
+    "taxon_id": "11935",
+    "sci_name": "Tachycineta bicolor",
+    "common_name": "Andorinha-das-árvores",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tree_swallow"
+  },
+  {
+    "class_name": "11941",
+    "taxon_id": "11941",
+    "sci_name": "Riparia riparia",
+    "common_name": "Andorinha-das-barreiras-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sand_martin"
+  },
+  {
+    "class_name": "12038",
+    "taxon_id": "12038",
+    "sci_name": "Lanius collurio",
+    "common_name": "Picanço-de-dorso-ruivo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-backed_shrike"
+  },
+  {
+    "class_name": "12039",
+    "taxon_id": "12039",
+    "sci_name": "Lanius senator",
+    "common_name": "Picanço-barreteiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Woodchat_shrike"
+  },
+  {
+    "class_name": "1204",
+    "taxon_id": "1204",
+    "sci_name": "Pavo cristatus",
+    "common_name": "Pavão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Indian_peafowl"
+  },
+  {
+    "class_name": "12042",
+    "taxon_id": "12042",
+    "sci_name": "Lanius isabellinus",
+    "common_name": "Picanço-isabel",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Isabelline_shrike"
+  },
+  {
+    "class_name": "12054",
+    "taxon_id": "12054",
+    "sci_name": "Lanius minor",
+    "common_name": "Picanço-de-mascarilha",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lesser_grey_shrike"
+  },
+  {
+    "class_name": "12707",
+    "taxon_id": "12707",
+    "sci_name": "Turdus pilaris",
+    "common_name": "Tordo-zornal",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fieldfare"
+  },
+  {
+    "class_name": "12716",
+    "taxon_id": "12716",
+    "sci_name": "Turdus merula",
+    "common_name": "Melro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_blackbird"
+  },
+  {
+    "class_name": "12727",
+    "taxon_id": "12727",
+    "sci_name": "Turdus migratorius",
+    "common_name": "Tordo-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_robin"
+  },
+  {
+    "class_name": "12735",
+    "taxon_id": "12735",
+    "sci_name": "Turdus viscivorus",
+    "common_name": "Tordoveia",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mistle_thrush"
+  },
+  {
+    "class_name": "12740",
+    "taxon_id": "12740",
+    "sci_name": "Turdus torquatus",
+    "common_name": "Melro-de-colar",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ring_ouzel"
+  },
+  {
+    "class_name": "12748",
+    "taxon_id": "12748",
+    "sci_name": "Turdus philomelos",
+    "common_name": "Tordo-pinto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Song_thrush"
+  },
+  {
+    "class_name": "12749",
+    "taxon_id": "12749",
+    "sci_name": "Turdus iliacus",
+    "common_name": "Tordo-ruivo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Redwing"
+  },
+  {
+    "class_name": "1280",
+    "taxon_id": "1280",
+    "sci_name": "Colinus virginianus",
+    "common_name": "Codorniz-da-virgínia",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_bobwhite"
+  },
+  {
+    "class_name": "12822",
+    "taxon_id": "12822",
+    "sci_name": "Oenanthe oenanthe",
+    "common_name": "Chasco-cinzento",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_wheatear"
+  },
+  {
+    "class_name": "12825",
+    "taxon_id": "12825",
+    "sci_name": "Oenanthe hispanica",
+    "common_name": "Chasco-ruivo",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black-eared_wheatear"
+  },
+  {
+    "class_name": "12837",
+    "taxon_id": "12837",
+    "sci_name": "Oenanthe isabellina",
+    "common_name": "Chasco-isabel",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Isabelline_wheatear"
+  },
+  {
+    "class_name": "12838",
+    "taxon_id": "12838",
+    "sci_name": "Oenanthe leucura",
+    "common_name": "Chasco-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_wheatear"
+  },
+  {
+    "class_name": "12842",
+    "taxon_id": "12842",
+    "sci_name": "Oenanthe deserti",
+    "common_name": "Chasco-do-deserto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Desert_wheatear"
+  },
+  {
+    "class_name": "1286928",
+    "taxon_id": "1286928",
+    "sci_name": "Thalasseus albididorsalis",
+    "common_name": "garajau-real-africano",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/West_African_crested_tern"
+  },
+  {
+    "class_name": "12878",
+    "taxon_id": "12878",
+    "sci_name": "Catharus ustulatus",
+    "common_name": "Tordo-dos-pântanos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Swainson's_thrush"
+  },
+  {
+    "class_name": "12883",
+    "taxon_id": "12883",
+    "sci_name": "Catharus minimus",
+    "common_name": "Tordo-de-faces-cinzentas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Grey-cheeked_thrush"
+  },
+  {
+    "class_name": "12890",
+    "taxon_id": "12890",
+    "sci_name": "Catharus guttatus",
+    "common_name": "Tordo-eremita",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hermit_thrush"
+  },
+  {
+    "class_name": "1289467",
+    "taxon_id": "1289467",
+    "sci_name": "Curruca undata",
+    "common_name": "Toutinegra-do-mato",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dartford_warbler"
+  },
+  {
+    "class_name": "1289469",
+    "taxon_id": "1289469",
+    "sci_name": "Curruca conspicillata",
+    "common_name": "Toutinegra-tomilheira",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spectacled_warbler"
+  },
+  {
+    "class_name": "1289470",
+    "taxon_id": "1289470",
+    "sci_name": "Curruca communis",
+    "common_name": "Papa-amoras-comum",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_whitethroat"
+  },
+  {
+    "class_name": "1289471",
+    "taxon_id": "1289471",
+    "sci_name": "Curruca iberiae",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Western_subalpine_warbler"
+  },
+  {
+    "class_name": "1289472",
+    "taxon_id": "1289472",
+    "sci_name": "Curruca melanocephala",
+    "common_name": "Toutinegra-dos-valados",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sardinian_warbler"
+  },
+  {
+    "class_name": "1289480",
+    "taxon_id": "1289480",
+    "sci_name": "Curruca hortensis",
+    "common_name": "Toutinegra-real-ocidental",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Western_Orphean_warbler"
+  },
+  {
+    "class_name": "1289484",
+    "taxon_id": "1289484",
+    "sci_name": "Curruca curruca",
+    "common_name": "Papa-amoras-cinzento",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lesser_whitethroat"
+  },
+  {
+    "class_name": "1289604",
+    "taxon_id": "1289604",
+    "sci_name": "Gulosus aristotelis",
+    "common_name": "Corvo-marinho-de-crista",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/European_shag"
+  },
+  {
+    "class_name": "1289616",
+    "taxon_id": "1289616",
+    "sci_name": "Hydrobates monteiroi",
+    "common_name": "Painho-de-monteiro",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monteiro's_storm_petrel"
+  },
+  {
+    "class_name": "1289617",
+    "taxon_id": "1289617",
+    "sci_name": "Hydrobates castro",
+    "common_name": "Roquinho",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Band-rumped_storm_petrel"
+  },
+  {
+    "class_name": "1289619",
+    "taxon_id": "1289619",
+    "sci_name": "Hydrobates monorhis",
+    "common_name": "Painho-de-swinhoe",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swinhoe's_storm_petrel"
+  },
+  {
+    "class_name": "1289622",
+    "taxon_id": "1289622",
+    "sci_name": "Hydrobates leucorhous",
+    "common_name": "Painho-de-cauda-forcada",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leach's_storm_petrel"
+  },
+  {
+    "class_name": "12908",
+    "taxon_id": "12908",
+    "sci_name": "Saxicola rubetra",
+    "common_name": "Cartaxo-nortenho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Whinchat"
+  },
+  {
+    "class_name": "12971",
+    "taxon_id": "12971",
+    "sci_name": "Muscicapa striata",
+    "common_name": "Papa-moscas-cinzento",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spotted_flycatcher"
+  },
+  {
+    "class_name": "12992",
+    "taxon_id": "12992",
+    "sci_name": "Phoenicurus phoenicurus",
+    "common_name": "Rabirruivo-de-testa-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_redstart"
+  },
+  {
+    "class_name": "13000",
+    "taxon_id": "13000",
+    "sci_name": "Phoenicurus ochruros",
+    "common_name": "Rabirruivo-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_redstart"
+  },
+  {
+    "class_name": "13071",
+    "taxon_id": "13071",
+    "sci_name": "Luscinia svecica",
+    "common_name": "Pisco-de-peito-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bluethroat"
+  },
+  {
+    "class_name": "13079",
+    "taxon_id": "13079",
+    "sci_name": "Luscinia megarhynchos",
+    "common_name": "Rouxinol",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_nightingale"
+  },
+  {
+    "class_name": "13094",
+    "taxon_id": "13094",
+    "sci_name": "Erithacus rubecula",
+    "common_name": "Pisco-de-peito-ruivo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_robin"
+  },
+  {
+    "class_name": "13113",
+    "taxon_id": "13113",
+    "sci_name": "Ficedula parva",
+    "common_name": "Papa-moscas-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-breasted_flycatcher"
+  },
+  {
+    "class_name": "13140",
+    "taxon_id": "13140",
+    "sci_name": "Monticola saxatilis",
+    "common_name": "Melro-das-rochas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_rock_thrush"
+  },
+  {
+    "class_name": "13141",
+    "taxon_id": "13141",
+    "sci_name": "Monticola solitarius",
+    "common_name": "Melro-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blue_rock_thrush"
+  },
+  {
+    "class_name": "132",
+    "taxon_id": "132",
+    "sci_name": "Tetrax tetrax",
+    "common_name": "Sisão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_bustard"
+  },
+  {
+    "class_name": "13676",
+    "taxon_id": "13676",
+    "sci_name": "Remiz pendulinus",
+    "common_name": "Chapim-de-mascarilha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_penduline_tit"
+  },
+  {
+    "class_name": "13687",
+    "taxon_id": "13687",
+    "sci_name": "Motacilla citreola",
+    "common_name": "Alvéola-citrina",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Citrine_wagtail"
+  },
+  {
+    "class_name": "13688",
+    "taxon_id": "13688",
+    "sci_name": "Motacilla cinerea",
+    "common_name": "Alvéola-cinzenta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Grey_wagtail"
+  },
+  {
+    "class_name": "13695",
+    "taxon_id": "13695",
+    "sci_name": "Motacilla alba",
+    "common_name": "Alvéola-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White_wagtail"
+  },
+  {
+    "class_name": "1370784",
+    "taxon_id": "1370784",
+    "sci_name": "Fulica atra × cristata",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "13711",
+    "taxon_id": "13711",
+    "sci_name": "Anthus trivialis",
+    "common_name": "Petinha-das-árvores",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tree_pipit"
+  },
+  {
+    "class_name": "13712",
+    "taxon_id": "13712",
+    "sci_name": "Anthus campestris",
+    "common_name": "Petinha-dos-campos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tawny_pipit"
+  },
+  {
+    "class_name": "13713",
+    "taxon_id": "13713",
+    "sci_name": "Anthus spinoletta",
+    "common_name": "Petinha-ribeirinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Water_pipit"
+  },
+  {
+    "class_name": "13721",
+    "taxon_id": "13721",
+    "sci_name": "Anthus cervinus",
+    "common_name": "Petinha-de-garganta-ruiva",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-throated_pipit"
+  },
+  {
+    "class_name": "13724",
+    "taxon_id": "13724",
+    "sci_name": "Anthus hodgsoni",
+    "common_name": "Petinha-de-Hodgson",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Olive-backed_pipit"
+  },
+  {
+    "class_name": "13726",
+    "taxon_id": "13726",
+    "sci_name": "Anthus richardi",
+    "common_name": "Petinha-de-Richard",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Richard's_pipit"
+  },
+  {
+    "class_name": "13729",
+    "taxon_id": "13729",
+    "sci_name": "Anthus pratensis",
+    "common_name": "Petinha-dos-prados",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Meadow_pipit"
+  },
+  {
+    "class_name": "13732",
+    "taxon_id": "13732",
+    "sci_name": "Anthus rubescens",
+    "common_name": "Petinha-fulva",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Buff-bellied_pipit"
+  },
+  {
+    "class_name": "13734",
+    "taxon_id": "13734",
+    "sci_name": "Anthus petrosus",
+    "common_name": "Petinha-marítima",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_rock_pipit"
+  },
+  {
+    "class_name": "13738",
+    "taxon_id": "13738",
+    "sci_name": "Anthus berthelotii",
+    "common_name": "Corre-caminho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Berthelot's_pipit"
+  },
+  {
+    "class_name": "13770",
+    "taxon_id": "13770",
+    "sci_name": "Estrilda astrild",
+    "common_name": "Bico-de-lacre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_waxbill"
+  },
+  {
+    "class_name": "13793",
+    "taxon_id": "13793",
+    "sci_name": "Ploceus melanocephalus",
+    "common_name": "Tecelão-de-cabeça-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-headed_weaver"
+  },
+  {
+    "class_name": "13851",
+    "taxon_id": "13851",
+    "sci_name": "Passer montanus",
+    "common_name": "Pardal-montês",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_tree_sparrow"
+  },
+  {
+    "class_name": "13854",
+    "taxon_id": "13854",
+    "sci_name": "Passer hispaniolensis",
+    "common_name": "Pardal-espanhol",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spanish_sparrow"
+  },
+  {
+    "class_name": "13855",
+    "taxon_id": "13855",
+    "sci_name": "Passer iagoensis",
+    "common_name": "Pardal-de-terra",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Iago_sparrow"
+  },
+  {
+    "class_name": "13858",
+    "taxon_id": "13858",
+    "sci_name": "Passer domesticus",
+    "common_name": "Pardal",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/House_sparrow"
+  },
+  {
+    "class_name": "13893",
+    "taxon_id": "13893",
+    "sci_name": "Lonchura punctulata",
+    "common_name": "Capuchinho-dominó",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scaly-breasted_munia"
+  },
+  {
+    "class_name": "13959",
+    "taxon_id": "13959",
+    "sci_name": "Amandava amandava",
+    "common_name": "Bengali",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_avadavat"
+  },
+  {
+    "class_name": "13962",
+    "taxon_id": "13962",
+    "sci_name": "Euplectes orix",
+    "common_name": "Cardeal-do-capim",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Southern_red_bishop"
+  },
+  {
+    "class_name": "13974",
+    "taxon_id": "13974",
+    "sci_name": "Euplectes afer",
+    "common_name": "Arcebispo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-crowned_bishop"
+  },
+  {
+    "class_name": "13988",
+    "taxon_id": "13988",
+    "sci_name": "Prunella modularis",
+    "common_name": "Ferreirinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dunnock"
+  },
+  {
+    "class_name": "13996",
+    "taxon_id": "13996",
+    "sci_name": "Prunella collaris",
+    "common_name": "Ferreirinha-serrana",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alpine_accentor"
+  },
+  {
+    "class_name": "14011",
+    "taxon_id": "14011",
+    "sci_name": "Vidua macroura",
+    "common_name": "Viuvinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pin-tailed_whydah"
+  },
+  {
+    "class_name": "14076",
+    "taxon_id": "14076",
+    "sci_name": "Petronia petronia",
+    "common_name": "Pardal-francês",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rock_sparrow"
+  },
+  {
+    "class_name": "14110",
+    "taxon_id": "14110",
+    "sci_name": "Taeniopygia guttata",
+    "common_name": "Mandarim",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Zebra_finch"
+  },
+  {
+    "class_name": "1428",
+    "taxon_id": "1428",
+    "sci_name": "Numida meleagris",
+    "common_name": "Fraca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Helmeted_guineafowl"
+  },
+  {
+    "class_name": "144221",
+    "taxon_id": "144221",
+    "sci_name": "Melanitta nigra",
+    "common_name": "Negrola",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_scoter"
+  },
+  {
+    "class_name": "144242",
+    "taxon_id": "144242",
+    "sci_name": "Picus sharpei",
+    "common_name": "Peto-real-ibérico",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Iberian_green_woodpecker"
+  },
+  {
+    "class_name": "144287",
+    "taxon_id": "144287",
+    "sci_name": "Anthropoides virgo",
+    "common_name": "Grou-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Demoiselle_crane"
+  },
+  {
+    "class_name": "144296",
+    "taxon_id": "144296",
+    "sci_name": "Stercorarius maccormicki",
+    "common_name": "Alcaide-do-antárctico",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/South_polar_skua"
+  },
+  {
+    "class_name": "144297",
+    "taxon_id": "144297",
+    "sci_name": "Stercorarius skua",
+    "common_name": "Alcaide",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_skua"
+  },
+  {
+    "class_name": "144423",
+    "taxon_id": "144423",
+    "sci_name": "Anser serrirostris",
+    "common_name": "Ganso-campestre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tundra_bean_goose"
+  },
+  {
+    "class_name": "144441",
+    "taxon_id": "144441",
+    "sci_name": "Puffinus baroli",
+    "common_name": "Pintainho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Barolo_shearwater"
+  },
+  {
+    "class_name": "144455",
+    "taxon_id": "144455",
+    "sci_name": "Ardea alba",
+    "common_name": "Garça-branca-grande",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_egret"
+  },
+  {
+    "class_name": "144467",
+    "taxon_id": "144467",
+    "sci_name": "Aquila fasciata",
+    "common_name": "Águia-perdigueira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bonelli's_eagle"
+  },
+  {
+    "class_name": "144496",
+    "taxon_id": "144496",
+    "sci_name": "Gallinago delicata",
+    "common_name": "Narceja-de-Wilson",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Wilson's_snipe"
+  },
+  {
+    "class_name": "144497",
+    "taxon_id": "144497",
+    "sci_name": "Phalaropus tricolor",
+    "common_name": "Pisa-n'água",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Wilson's_phalarope"
+  },
+  {
+    "class_name": "144501",
+    "taxon_id": "144501",
+    "sci_name": "Chroicocephalus genei",
+    "common_name": "Gaivota-de-bico-fino",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Slender-billed_gull"
+  },
+  {
+    "class_name": "144502",
+    "taxon_id": "144502",
+    "sci_name": "Chroicocephalus philadelphia",
+    "common_name": "Guincho-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bonaparte's_gull"
+  },
+  {
+    "class_name": "144510",
+    "taxon_id": "144510",
+    "sci_name": "Chroicocephalus ridibundus",
+    "common_name": "Guincho-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-headed_gull"
+  },
+  {
+    "class_name": "144512",
+    "taxon_id": "144512",
+    "sci_name": "Hydrocoloeus minutus",
+    "common_name": "Gaivota-pequena",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_gull"
+  },
+  {
+    "class_name": "144514",
+    "taxon_id": "144514",
+    "sci_name": "Leucophaeus atricilla",
+    "common_name": "Gaivota-alegre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Laughing_gull"
+  },
+  {
+    "class_name": "144515",
+    "taxon_id": "144515",
+    "sci_name": "Leucophaeus pipixcan",
+    "common_name": "Gaivota-das-pradarias",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Franklin's_gull"
+  },
+  {
+    "class_name": "144517",
+    "taxon_id": "144517",
+    "sci_name": "Ichthyaetus melanocephalus",
+    "common_name": "Gaivota-de-cabeça-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mediterranean_gull"
+  },
+  {
+    "class_name": "144522",
+    "taxon_id": "144522",
+    "sci_name": "Ichthyaetus audouinii",
+    "common_name": "Gaivota-de-audouin",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Audouin's_gull"
+  },
+  {
+    "class_name": "144525",
+    "taxon_id": "144525",
+    "sci_name": "Onychoprion fuscatus",
+    "common_name": "Garajau-de-dorso-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sooty_tern"
+  },
+  {
+    "class_name": "144529",
+    "taxon_id": "144529",
+    "sci_name": "Sternula albifrons",
+    "common_name": "Andorinha-do-mar-anã",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_tern"
+  },
+  {
+    "class_name": "144536",
+    "taxon_id": "144536",
+    "sci_name": "Gelochelidon nilotica",
+    "common_name": "Tagaz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Gull-billed_tern"
+  },
+  {
+    "class_name": "144537",
+    "taxon_id": "144537",
+    "sci_name": "Hydroprogne caspia",
+    "common_name": "Garajau-grande",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Caspian_tern"
+  },
+  {
+    "class_name": "144541",
+    "taxon_id": "144541",
+    "sci_name": "Thalasseus sandvicensis",
+    "common_name": "Garajau-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sandwich_tern"
+  },
+  {
+    "class_name": "144543",
+    "taxon_id": "144543",
+    "sci_name": "Thalasseus bengalensis",
+    "common_name": "Garajau-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_crested_tern"
+  },
+  {
+    "class_name": "144594",
+    "taxon_id": "144594",
+    "sci_name": "Bubo scandiacus",
+    "common_name": "Coruja-das-neves",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snowy_owl"
+  },
+  {
+    "class_name": "144757",
+    "taxon_id": "144757",
+    "sci_name": "Corvus cornix",
+    "common_name": "Gralha-cinzenta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hooded_crow"
+  },
+  {
+    "class_name": "144788",
+    "taxon_id": "144788",
+    "sci_name": "Ptyonoprogne rupestris",
+    "common_name": "Andorinha-das-rochas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_crag_martin"
+  },
+  {
+    "class_name": "144792",
+    "taxon_id": "144792",
+    "sci_name": "Cecropis daurica",
+    "common_name": "Andorinha-estriada",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_red-rumped_swallow"
+  },
+  {
+    "class_name": "144823",
+    "taxon_id": "144823",
+    "sci_name": "Periparus ater",
+    "common_name": "Chapim-carvoeiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Coal_tit"
+  },
+  {
+    "class_name": "144830",
+    "taxon_id": "144830",
+    "sci_name": "Lophophanes cristatus",
+    "common_name": "Chapim-de-poupa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_crested_tit"
+  },
+  {
+    "class_name": "144849",
+    "taxon_id": "144849",
+    "sci_name": "Cyanistes caeruleus",
+    "common_name": "Chapim-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_blue_tit"
+  },
+  {
+    "class_name": "145026",
+    "taxon_id": "145026",
+    "sci_name": "Cercotrichas galactotes",
+    "common_name": "Solitário",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rufous-tailed_scrub_robin"
+  },
+  {
+    "class_name": "145108",
+    "taxon_id": "145108",
+    "sci_name": "Pastor roseus",
+    "common_name": "Estorninho-rosado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rosy_starling"
+  },
+  {
+    "class_name": "145207",
+    "taxon_id": "145207",
+    "sci_name": "Motacilla tschutschensis",
+    "common_name": "Alvéola-amarela-oriental",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_yellow_wagtail"
+  },
+  {
+    "class_name": "145229",
+    "taxon_id": "145229",
+    "sci_name": "Setophaga citrina",
+    "common_name": "Mariquita-de-capuz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hooded_warbler"
+  },
+  {
+    "class_name": "145231",
+    "taxon_id": "145231",
+    "sci_name": "Setophaga tigrina",
+    "common_name": "Mariquita-do-cabo-may",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cape_May_warbler"
+  },
+  {
+    "class_name": "145233",
+    "taxon_id": "145233",
+    "sci_name": "Setophaga americana",
+    "common_name": "Mariquita-azul",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Northern_parula"
+  },
+  {
+    "class_name": "145235",
+    "taxon_id": "145235",
+    "sci_name": "Setophaga magnolia",
+    "common_name": "Mariquita-de-faces-pretas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Magnolia_warbler"
+  },
+  {
+    "class_name": "145236",
+    "taxon_id": "145236",
+    "sci_name": "Setophaga castanea",
+    "common_name": "Mariquita-de-peito-castanho",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bay-breasted_warbler"
+  },
+  {
+    "class_name": "145238",
+    "taxon_id": "145238",
+    "sci_name": "Setophaga petechia",
+    "common_name": "Mariquita-dos-mangais",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_yellow_warbler"
+  },
+  {
+    "class_name": "145240",
+    "taxon_id": "145240",
+    "sci_name": "Setophaga striata",
+    "common_name": "Mariquita-da-perna-clara",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blackpoll_warbler"
+  },
+  {
+    "class_name": "145245",
+    "taxon_id": "145245",
+    "sci_name": "Setophaga coronata",
+    "common_name": "Mariquita-coroada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-rumped_warbler"
+  },
+  {
+    "class_name": "145258",
+    "taxon_id": "145258",
+    "sci_name": "Setophaga virens",
+    "common_name": "Mariquita-verde-de-garganta-preta",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black-throated_green_warbler"
+  },
+  {
+    "class_name": "145291",
+    "taxon_id": "145291",
+    "sci_name": "Emberiza calandra",
+    "common_name": "Trigueirão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Corn_bunting"
+  },
+  {
+    "class_name": "145300",
+    "taxon_id": "145300",
+    "sci_name": "Acanthis flammea",
+    "common_name": "Pintarroxo-de-queixo-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_redpoll"
+  },
+  {
+    "class_name": "145303",
+    "taxon_id": "145303",
+    "sci_name": "Spinus spinus",
+    "common_name": "Lugre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_siskin"
+  },
+  {
+    "class_name": "145360",
+    "taxon_id": "145360",
+    "sci_name": "Chloris chloris",
+    "common_name": "Verdilhão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_greenfinch"
+  },
+  {
+    "class_name": "145363",
+    "taxon_id": "145363",
+    "sci_name": "Troglodytes troglodytes",
+    "common_name": "Carriça",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_wren"
+  },
+  {
+    "class_name": "1454382",
+    "taxon_id": "1454382",
+    "sci_name": "Nannopterum auritum",
+    "common_name": "Corvo-marinho-d'orelhas",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Double-crested_cormorant"
+  },
+  {
+    "class_name": "1455674",
+    "taxon_id": "1455674",
+    "sci_name": "Platycercus eximius × adscitus",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "1455922",
+    "taxon_id": "1455922",
+    "sci_name": "Spilopelia senegalensis",
+    "common_name": "Rola-dos-palmares",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laughing_dove"
+  },
+  {
+    "class_name": "14824",
+    "taxon_id": "14824",
+    "sci_name": "Sitta europaea",
+    "common_name": "Trepadeira-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_nuthatch"
+  },
+  {
+    "class_name": "14840",
+    "taxon_id": "14840",
+    "sci_name": "Tichodroma muraria",
+    "common_name": "Trepa-fragas",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wallcreeper"
+  },
+  {
+    "class_name": "14849",
+    "taxon_id": "14849",
+    "sci_name": "Sturnus unicolor",
+    "common_name": "Estorninho-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spotless_starling"
+  },
+  {
+    "class_name": "14850",
+    "taxon_id": "14850",
+    "sci_name": "Sturnus vulgaris",
+    "common_name": "Estorninho-malhado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_starling"
+  },
+  {
+    "class_name": "14872",
+    "taxon_id": "14872",
+    "sci_name": "Acridotheres cristatellus",
+    "common_name": "Mainá-de-crista",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Crested_myna"
+  },
+  {
+    "class_name": "1504817",
+    "taxon_id": "1504817",
+    "sci_name": "Fringilla moreletti",
+    "common_name": "Tentilhão dos Açores",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Azores_chaffinch"
+  },
+  {
+    "class_name": "1504818",
+    "taxon_id": "1504818",
+    "sci_name": "Fringilla maderensis",
+    "common_name": "Tentilhão da Madeira",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Madeiran_chaffinch"
+  },
+  {
+    "class_name": "1505620",
+    "taxon_id": "1505620",
+    "sci_name": "Anarhynchus alexandrinus",
+    "common_name": "Borrelho-de-coleira-interrompida",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kentish_plover"
+  },
+  {
+    "class_name": "1505629",
+    "taxon_id": "1505629",
+    "sci_name": "Anarhynchus leschenaultii",
+    "common_name": "Borrelho-grande-de-colar-ruivo",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greater_sand_plover"
+  },
+  {
+    "class_name": "15282",
+    "taxon_id": "15282",
+    "sci_name": "Sylvia atricapilla",
+    "common_name": "Toutinegra-de-barrete",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_blackcap"
+  },
+  {
+    "class_name": "15302",
+    "taxon_id": "15302",
+    "sci_name": "Sylvia borin",
+    "common_name": "Toutinegra-das-figueiras",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Garden_warbler"
+  },
+  {
+    "class_name": "15560",
+    "taxon_id": "15560",
+    "sci_name": "Leiothrix lutea",
+    "common_name": "Rouxinol do Japão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-billed_leiothrix"
+  },
+  {
+    "class_name": "1578489",
+    "taxon_id": "1578489",
+    "sci_name": "Larus smithsonianus",
+    "common_name": "Gaivota-prateada-americana",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_herring_gull"
+  },
+  {
+    "class_name": "1578960",
+    "taxon_id": "1578960",
+    "sci_name": "Botaurus exilis",
+    "common_name": "Socoí-vermelho",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Least_bittern"
+  },
+  {
+    "class_name": "1578961",
+    "taxon_id": "1578961",
+    "sci_name": "Botaurus minutus",
+    "common_name": "Garçote-comum",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Little_bittern"
+  },
+  {
+    "class_name": "1579015",
+    "taxon_id": "1579015",
+    "sci_name": "Astur gentilis",
+    "common_name": "Açor",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eurasian_goshawk"
+  },
+  {
+    "class_name": "1580336",
+    "taxon_id": "1580336",
+    "sci_name": "Thinornis dubius",
+    "common_name": "Borrelho-pequeno-de-coleira",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Little_ringed_plover"
+  },
+  {
+    "class_name": "1583484",
+    "taxon_id": "1583484",
+    "sci_name": "Crecopsis egregia",
+    "common_name": "Codornizão-africano",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/African_crake"
+  },
+  {
+    "class_name": "1584768",
+    "taxon_id": "1584768",
+    "sci_name": "Cecropis rufula",
+    "common_name": "Andorinha-dáurica",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/European_red-rumped_swallow"
+  },
+  {
+    "class_name": "1602130",
+    "taxon_id": "1602130",
+    "sci_name": "Aix sponsa × Mareca sibilatrix",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "1604054",
+    "taxon_id": "1604054",
+    "sci_name": "Aythya nyroca × Spatula cyanoptera",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "16100",
+    "taxon_id": "16100",
+    "sci_name": "Contopus virens",
+    "common_name": "Piuí-verdadeiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_wood_pewee"
+  },
+  {
+    "class_name": "162",
+    "taxon_id": "162",
+    "sci_name": "Porzana carolina",
+    "common_name": "Franga-d'água-americana",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sora_(bird)"
+  },
+  {
+    "class_name": "16791",
+    "taxon_id": "16791",
+    "sci_name": "Tyrannus verticalis",
+    "common_name": "Suiriri-ocidental",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Western_kingbird"
+  },
+  {
+    "class_name": "17364",
+    "taxon_id": "17364",
+    "sci_name": "Vireo philadelphicus",
+    "common_name": "Juruviara-da-filadélfia",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Philadelphia_vireo"
+  },
+  {
+    "class_name": "17365",
+    "taxon_id": "17365",
+    "sci_name": "Vireo flavifrons",
+    "common_name": "Juruviara-de-garganta-amarela",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-throated_vireo"
+  },
+  {
+    "class_name": "17394",
+    "taxon_id": "17394",
+    "sci_name": "Vireo gilvus",
+    "common_name": "Juruviara-cantora",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Warbling_vireo"
+  },
+  {
+    "class_name": "17408",
+    "taxon_id": "17408",
+    "sci_name": "Vireo griseus",
+    "common_name": "Juruviara-de-olhos-brancos",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/White-eyed_vireo"
+  },
+  {
+    "class_name": "178",
+    "taxon_id": "178",
+    "sci_name": "Porzana porzana",
+    "common_name": "Franga-d'água-malhada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spotted_crake"
+  },
+  {
+    "class_name": "1787",
+    "taxon_id": "1787",
+    "sci_name": "Clamator glandarius",
+    "common_name": "Cuco-rabilongo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_spotted_cuckoo"
+  },
+  {
+    "class_name": "17871",
+    "taxon_id": "17871",
+    "sci_name": "Dendrocopos major",
+    "common_name": "Pica-pau-malhado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_spotted_woodpecker"
+  },
+  {
+    "class_name": "18448",
+    "taxon_id": "18448",
+    "sci_name": "Jynx torquilla",
+    "common_name": "Torcicolo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_wryneck"
+  },
+  {
+    "class_name": "18904",
+    "taxon_id": "18904",
+    "sci_name": "Psittacula eupatria",
+    "common_name": "Periquito-alexandrino",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alexandrine_parakeet"
+  },
+  {
+    "class_name": "18911",
+    "taxon_id": "18911",
+    "sci_name": "Psittacula krameri",
+    "common_name": "Periquito-rabijunco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rose-ringed_parakeet"
+  },
+  {
+    "class_name": "18920",
+    "taxon_id": "18920",
+    "sci_name": "Platycercus eximius",
+    "common_name": "Roselha-do-leste",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eastern_rosella"
+  },
+  {
+    "class_name": "18921",
+    "taxon_id": "18921",
+    "sci_name": "Platycercus elegans",
+    "common_name": "periquito-carmesim",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Crimson_rosella"
+  },
+  {
+    "class_name": "18982",
+    "taxon_id": "18982",
+    "sci_name": "Amazona amazonica",
+    "common_name": "Papagaio-do-mangue",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Orange-winged_amazon"
+  },
+  {
+    "class_name": "19052",
+    "taxon_id": "19052",
+    "sci_name": "Poicephalus senegalus",
+    "common_name": "Periquito-massarongo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Senegal_parrot"
+  },
+  {
+    "class_name": "1907",
+    "taxon_id": "1907",
+    "sci_name": "Cuculus canorus",
+    "common_name": "Cuco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_cuckoo"
+  },
+  {
+    "class_name": "19075",
+    "taxon_id": "19075",
+    "sci_name": "Agapornis fischeri",
+    "common_name": "Inseparável-de-fischer",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fischer's_lovebird"
+  },
+  {
+    "class_name": "19076",
+    "taxon_id": "19076",
+    "sci_name": "Agapornis personatus",
+    "common_name": "Inseparável-mascarado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-collared_lovebird"
+  },
+  {
+    "class_name": "19079",
+    "taxon_id": "19079",
+    "sci_name": "Agapornis roseicollis",
+    "common_name": "Inseparável-angolano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rosy-faced_lovebird"
+  },
+  {
+    "class_name": "19152",
+    "taxon_id": "19152",
+    "sci_name": "Pyrrhura molinae",
+    "common_name": "cara-suja-do-pantanal",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Green-cheeked_parakeet"
+  },
+  {
+    "class_name": "19196",
+    "taxon_id": "19196",
+    "sci_name": "Alisterus scapularis",
+    "common_name": "papagaio-australiano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Australian_king_parrot"
+  },
+  {
+    "class_name": "19224",
+    "taxon_id": "19224",
+    "sci_name": "Eclectus",
+    "common_name": "papagaios-ecléticos",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eclectus"
+  },
+  {
+    "class_name": "19347",
+    "taxon_id": "19347",
+    "sci_name": "Cyanoliseus patagonus",
+    "common_name": "Periquito-das-barreiras",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burrowing_parrot"
+  },
+  {
+    "class_name": "19349",
+    "taxon_id": "19349",
+    "sci_name": "Myiopsitta monachus",
+    "common_name": "Caturrita",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Monk_parakeet"
+  },
+  {
+    "class_name": "19410",
+    "taxon_id": "19410",
+    "sci_name": "Caprimulgus europaeus",
+    "common_name": "Noitibó-cinzento",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_nightjar"
+  },
+  {
+    "class_name": "19482",
+    "taxon_id": "19482",
+    "sci_name": "Caprimulgus ruficollis",
+    "common_name": "Noitibó-de-nuca-vermelha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-necked_nightjar"
+  },
+  {
+    "class_name": "19577",
+    "taxon_id": "19577",
+    "sci_name": "Chordeiles minor",
+    "common_name": "Bacurau-norte-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_nighthawk"
+  },
+  {
+    "class_name": "1965",
+    "taxon_id": "1965",
+    "sci_name": "Coccyzus americanus",
+    "common_name": "Papa-lagarta-norte-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-billed_cuckoo"
+  },
+  {
+    "class_name": "19898",
+    "taxon_id": "19898",
+    "sci_name": "Strix aluco",
+    "common_name": "Coruja-do-mato",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tawny_owl"
+  },
+  {
+    "class_name": "199840",
+    "taxon_id": "199840",
+    "sci_name": "Haemorhous mexicanus",
+    "common_name": "Pintarroxo-caseiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/House_finch"
+  },
+  {
+    "class_name": "199916",
+    "taxon_id": "199916",
+    "sci_name": "Setophaga caerulescens",
+    "common_name": "Mariquita-azul-de-garganta-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-throated_blue_warbler"
+  },
+  {
+    "class_name": "19998",
+    "taxon_id": "19998",
+    "sci_name": "Athene noctua",
+    "common_name": "Mocho-galego",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_owl"
+  },
+  {
+    "class_name": "20059",
+    "taxon_id": "20059",
+    "sci_name": "Bubo bubo",
+    "common_name": "Bufo-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_eagle-owl"
+  },
+  {
+    "class_name": "201033",
+    "taxon_id": "201033",
+    "sci_name": "Clanga pomarina",
+    "common_name": "Águia-da-Pomerânia",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lesser_spotted_eagle"
+  },
+  {
+    "class_name": "201035",
+    "taxon_id": "201035",
+    "sci_name": "Clanga clanga",
+    "common_name": "Águia-malhada",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greater_spotted_eagle"
+  },
+  {
+    "class_name": "201181",
+    "taxon_id": "201181",
+    "sci_name": "Iduna opaca",
+    "common_name": "Felosa-pálida-ocidental",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_olivaceous_warbler"
+  },
+  {
+    "class_name": "201192",
+    "taxon_id": "201192",
+    "sci_name": "Saxicola rubicola",
+    "common_name": "Cartaxo-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_stonechat"
+  },
+  {
+    "class_name": "201193",
+    "taxon_id": "201193",
+    "sci_name": "Saxicola maurus",
+    "common_name": "Cartaxo-asiático",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Siberian_stonechat"
+  },
+  {
+    "class_name": "201282",
+    "taxon_id": "201282",
+    "sci_name": "Gallinula chloropus",
+    "common_name": "Galinha-d'água-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_moorhen"
+  },
+  {
+    "class_name": "20244",
+    "taxon_id": "20244",
+    "sci_name": "Otus scops",
+    "common_name": "Mocho-d'orelhas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_scops_owl"
+  },
+  {
+    "class_name": "20307",
+    "taxon_id": "20307",
+    "sci_name": "Asio otus",
+    "common_name": "Mocho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Long-eared_owl"
+  },
+  {
+    "class_name": "20315",
+    "taxon_id": "20315",
+    "sci_name": "Asio flammeus",
+    "common_name": "Coruja-do-nabal",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Short-eared_owl"
+  },
+  {
+    "class_name": "203153",
+    "taxon_id": "203153",
+    "sci_name": "Parus major",
+    "common_name": "Chapim-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_tit"
+  },
+  {
+    "class_name": "20445",
+    "taxon_id": "20445",
+    "sci_name": "Tyto alba",
+    "common_name": "Coruja-das-torres",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Western_barn_owl"
+  },
+  {
+    "class_name": "204454",
+    "taxon_id": "204454",
+    "sci_name": "Acridotheres tristis",
+    "common_name": "Mainato-de-mascarilha-amarela",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_myna"
+  },
+  {
+    "class_name": "204455",
+    "taxon_id": "204455",
+    "sci_name": "Acrocephalus scirpaceus",
+    "common_name": "Rouxinol-dos-caniços",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_reed_warbler"
+  },
+  {
+    "class_name": "204456",
+    "taxon_id": "204456",
+    "sci_name": "Acrocephalus arundinaceus",
+    "common_name": "Rouxinol-grande-dos-caniços",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_reed_warbler"
+  },
+  {
+    "class_name": "204472",
+    "taxon_id": "204472",
+    "sci_name": "Buteo buteo",
+    "common_name": "Águia-d'asa-redonda",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_buzzard"
+  },
+  {
+    "class_name": "204496",
+    "taxon_id": "204496",
+    "sci_name": "Corvus corone",
+    "common_name": "Gralha-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Carrion_crow"
+  },
+  {
+    "class_name": "204512",
+    "taxon_id": "204512",
+    "sci_name": "Ficedula hypoleuca",
+    "common_name": "Papa-moscas-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_pied_flycatcher"
+  },
+  {
+    "class_name": "204533",
+    "taxon_id": "204533",
+    "sci_name": "Larus argentatus",
+    "common_name": "Gaivota-prateada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Herring_gull"
+  },
+  {
+    "class_name": "204544",
+    "taxon_id": "204544",
+    "sci_name": "Montifringilla nivalis",
+    "common_name": "Pardal-alpino",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-winged_snowfinch"
+  },
+  {
+    "class_name": "204545",
+    "taxon_id": "204545",
+    "sci_name": "Motacilla flava",
+    "common_name": "Alvéola-amarela",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_yellow_wagtail"
+  },
+  {
+    "class_name": "204556",
+    "taxon_id": "204556",
+    "sci_name": "Oriolus oriolus",
+    "common_name": "Papa-figos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_golden_oriole"
+  },
+  {
+    "class_name": "20526",
+    "taxon_id": "20526",
+    "sci_name": "Struthio camelus",
+    "common_name": "Avestruz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_ostrich"
+  },
+  {
+    "class_name": "20969",
+    "taxon_id": "20969",
+    "sci_name": "Upupa epops",
+    "common_name": "Poupa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_hoopoe"
+  },
+  {
+    "class_name": "2191",
+    "taxon_id": "2191",
+    "sci_name": "Merops apiaster",
+    "common_name": "Abelharuco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_bee-eater"
+  },
+  {
+    "class_name": "2266",
+    "taxon_id": "2266",
+    "sci_name": "Coracias garrulus",
+    "common_name": "Rolieiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_roller"
+  },
+  {
+    "class_name": "2548",
+    "taxon_id": "2548",
+    "sci_name": "Megaceryle alcyon",
+    "common_name": "Guarda-rios-cintado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Belted_kingfisher"
+  },
+  {
+    "class_name": "2599",
+    "taxon_id": "2599",
+    "sci_name": "Alcedo atthis",
+    "common_name": "Guarda-rios",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_kingfisher"
+  },
+  {
+    "class_name": "2938",
+    "taxon_id": "2938",
+    "sci_name": "Streptopelia turtur",
+    "common_name": "Rola-brava",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_turtle_dove"
+  },
+  {
+    "class_name": "2966",
+    "taxon_id": "2966",
+    "sci_name": "Streptopelia roseogrisea",
+    "common_name": "Rola-rosada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/African_collared_dove"
+  },
+  {
+    "class_name": "2969",
+    "taxon_id": "2969",
+    "sci_name": "Streptopelia decaocto",
+    "common_name": "Rola-turca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_collared_dove"
+  },
+  {
+    "class_name": "3017",
+    "taxon_id": "3017",
+    "sci_name": "Columba livia",
+    "common_name": "Pombo-das-rochas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rock_dove"
+  },
+  {
+    "class_name": "3033",
+    "taxon_id": "3033",
+    "sci_name": "Columba oenas",
+    "common_name": "Seixa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Stock_dove"
+  },
+  {
+    "class_name": "3036",
+    "taxon_id": "3036",
+    "sci_name": "Columba guinea",
+    "common_name": "Pombo-malhado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Speckled_pigeon"
+  },
+  {
+    "class_name": "3048",
+    "taxon_id": "3048",
+    "sci_name": "Columba palumbus",
+    "common_name": "Pombo-torcaz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_wood_pigeon"
+  },
+  {
+    "class_name": "3054",
+    "taxon_id": "3054",
+    "sci_name": "Columba trocaz",
+    "common_name": "Pombo-da-madeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trocaz_pigeon"
+  },
+  {
+    "class_name": "318836",
+    "taxon_id": "318836",
+    "sci_name": "Gallinago gallinago",
+    "common_name": "Narceja",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_snipe"
+  },
+  {
+    "class_name": "320711",
+    "taxon_id": "320711",
+    "sci_name": "Calonectris borealis",
+    "common_name": "Cagarro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cory's_shearwater"
+  },
+  {
+    "class_name": "326092",
+    "taxon_id": "326092",
+    "sci_name": "Anas platyrhynchos × Cairina moschata",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mulard"
+  },
+  {
+    "class_name": "327608",
+    "taxon_id": "327608",
+    "sci_name": "Gyps rueppelli",
+    "common_name": "Grifo-pedrês",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rüppell's_vulture"
+  },
+  {
+    "class_name": "336399",
+    "taxon_id": "336399",
+    "sci_name": "Coloeus monedula",
+    "common_name": "Gralha-de-nuca-cinzenta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_jackdaw"
+  },
+  {
+    "class_name": "339593",
+    "taxon_id": "339593",
+    "sci_name": "Calidris pugnax",
+    "common_name": "Combatente",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ruff"
+  },
+  {
+    "class_name": "339594",
+    "taxon_id": "339594",
+    "sci_name": "Calidris falcinellus",
+    "common_name": "Pilrito-de-bico-grosso",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Broad-billed_sandpiper"
+  },
+  {
+    "class_name": "339596",
+    "taxon_id": "339596",
+    "sci_name": "Calidris subruficollis",
+    "common_name": "Pilrito-acanelado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Buff-breasted_sandpiper"
+  },
+  {
+    "class_name": "339680",
+    "taxon_id": "339680",
+    "sci_name": "Lanius phoenicuroides",
+    "common_name": "Picanço-do-turquestão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-tailed_shrike"
+  },
+  {
+    "class_name": "339684",
+    "taxon_id": "339684",
+    "sci_name": "Cyanopica cooki",
+    "common_name": "Charneco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Iberian_magpie"
+  },
+  {
+    "class_name": "3454",
+    "taxon_id": "3454",
+    "sci_name": "Zenaida macroura",
+    "common_name": "Rola-carpideira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mourning_dove"
+  },
+  {
+    "class_name": "3607",
+    "taxon_id": "3607",
+    "sci_name": "Geopelia striata",
+    "common_name": "Rola-zebrada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Zebra_dove"
+  },
+  {
+    "class_name": "3609",
+    "taxon_id": "3609",
+    "sci_name": "Geopelia cuneata",
+    "common_name": "Rola-diamante",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Diamond_dove"
+  },
+  {
+    "class_name": "367562",
+    "taxon_id": "367562",
+    "sci_name": "Aratinga nenday",
+    "common_name": "Periquito-nandaí",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Nanday_parakeet"
+  },
+  {
+    "class_name": "367564",
+    "taxon_id": "367564",
+    "sci_name": "Thectocercus acuticaudatus",
+    "common_name": "Aratinga-de-testa-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blue-crowned_parakeet"
+  },
+  {
+    "class_name": "3731",
+    "taxon_id": "3731",
+    "sci_name": "Platalea leucorodia",
+    "common_name": "Colhereiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_spoonbill"
+  },
+  {
+    "class_name": "3739",
+    "taxon_id": "3739",
+    "sci_name": "Threskiornis aethiopicus",
+    "common_name": "Íbis-sagrada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/African_sacred_ibis"
+  },
+  {
+    "class_name": "3750",
+    "taxon_id": "3750",
+    "sci_name": "Eudocimus ruber",
+    "common_name": "Guará",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scarlet_ibis"
+  },
+  {
+    "class_name": "3753",
+    "taxon_id": "3753",
+    "sci_name": "Geronticus eremita",
+    "common_name": "Íbis-pelada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_bald_ibis"
+  },
+  {
+    "class_name": "3756",
+    "taxon_id": "3756",
+    "sci_name": "Plegadis falcinellus",
+    "common_name": "Íbis-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Glossy_ibis"
+  },
+  {
+    "class_name": "3793",
+    "taxon_id": "3793",
+    "sci_name": "Sula sula",
+    "common_name": "Atobá-de-pés-vemelhos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-footed_booby"
+  },
+  {
+    "class_name": "3797",
+    "taxon_id": "3797",
+    "sci_name": "Sula leucogaster",
+    "common_name": "Alcatraz-pardo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brown_booby"
+  },
+  {
+    "class_name": "3802",
+    "taxon_id": "3802",
+    "sci_name": "Morus bassanus",
+    "common_name": "Alcatraz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_gannet"
+  },
+  {
+    "class_name": "3837",
+    "taxon_id": "3837",
+    "sci_name": "Calidris temminckii",
+    "common_name": "Pilrito-de-temminck",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Temminck's_stint"
+  },
+  {
+    "class_name": "3838",
+    "taxon_id": "3838",
+    "sci_name": "Calidris minuta",
+    "common_name": "Pilrito-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_stint"
+  },
+  {
+    "class_name": "3845",
+    "taxon_id": "3845",
+    "sci_name": "Calidris canutus",
+    "common_name": "Seixoeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_knot"
+  },
+  {
+    "class_name": "3849",
+    "taxon_id": "3849",
+    "sci_name": "Calidris alba",
+    "common_name": "Pilrito-das-praias",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sanderling"
+  },
+  {
+    "class_name": "3850",
+    "taxon_id": "3850",
+    "sci_name": "Calidris himantopus",
+    "common_name": "Pilrito-pernilongo",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stilt_sandpiper"
+  },
+  {
+    "class_name": "3851",
+    "taxon_id": "3851",
+    "sci_name": "Calidris bairdii",
+    "common_name": "Pilrito-de-bico-fino",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baird's_sandpiper"
+  },
+  {
+    "class_name": "3856",
+    "taxon_id": "3856",
+    "sci_name": "Calidris maritima",
+    "common_name": "Pilrito-escuro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Purple_sandpiper"
+  },
+  {
+    "class_name": "3857",
+    "taxon_id": "3857",
+    "sci_name": "Calidris alpina",
+    "common_name": "Pilrito-de-peito-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dunlin"
+  },
+  {
+    "class_name": "3862",
+    "taxon_id": "3862",
+    "sci_name": "Calidris pusilla",
+    "common_name": "Pilrito-rasteirinho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Semipalmated_sandpiper"
+  },
+  {
+    "class_name": "3863",
+    "taxon_id": "3863",
+    "sci_name": "Calidris ferruginea",
+    "common_name": "Pilrito-de-bico-comprido",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Curlew_sandpiper"
+  },
+  {
+    "class_name": "3864",
+    "taxon_id": "3864",
+    "sci_name": "Calidris minutilla",
+    "common_name": "Pilrito-anão",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Least_sandpiper"
+  },
+  {
+    "class_name": "3865",
+    "taxon_id": "3865",
+    "sci_name": "Calidris melanotos",
+    "common_name": "Pilrito-de-colete",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pectoral_sandpiper"
+  },
+  {
+    "class_name": "3866",
+    "taxon_id": "3866",
+    "sci_name": "Calidris fuscicollis",
+    "common_name": "Pilrito-de-sobre-branco",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/White-rumped_sandpiper"
+  },
+  {
+    "class_name": "3869",
+    "taxon_id": "3869",
+    "sci_name": "Limnodromus griseus",
+    "common_name": "Maçarico-de-costas-brancas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Short-billed_dowitcher"
+  },
+  {
+    "class_name": "3873",
+    "taxon_id": "3873",
+    "sci_name": "Limnodromus scolopaceus",
+    "common_name": "Maçarico-de-bico-comprido",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Long-billed_dowitcher"
+  },
+  {
+    "class_name": "3875",
+    "taxon_id": "3875",
+    "sci_name": "Tringa solitaria",
+    "common_name": "Maçarico-solitário",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Solitary_sandpiper"
+  },
+  {
+    "class_name": "3878",
+    "taxon_id": "3878",
+    "sci_name": "Tringa nebularia",
+    "common_name": "Perna-verde",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_greenshank"
+  },
+  {
+    "class_name": "3879",
+    "taxon_id": "3879",
+    "sci_name": "Tringa totanus",
+    "common_name": "Perna-vermelha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_redshank"
+  },
+  {
+    "class_name": "3881",
+    "taxon_id": "3881",
+    "sci_name": "Tringa stagnatilis",
+    "common_name": "Perna-verde-fina",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marsh_sandpiper"
+  },
+  {
+    "class_name": "3882",
+    "taxon_id": "3882",
+    "sci_name": "Tringa erythropus",
+    "common_name": "Perna-vermelha-bastarda",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spotted_redshank"
+  },
+  {
+    "class_name": "3885",
+    "taxon_id": "3885",
+    "sci_name": "Tringa ochropus",
+    "common_name": "Maçarico-bique-bique",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Green_sandpiper"
+  },
+  {
+    "class_name": "3888",
+    "taxon_id": "3888",
+    "sci_name": "Tringa glareola",
+    "common_name": "Maçarico-de-dorso-malhado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Wood_sandpiper"
+  },
+  {
+    "class_name": "3892",
+    "taxon_id": "3892",
+    "sci_name": "Tringa melanoleuca",
+    "common_name": "Perna-amarela-grande",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_yellowlegs"
+  },
+  {
+    "class_name": "3893",
+    "taxon_id": "3893",
+    "sci_name": "Tringa flavipes",
+    "common_name": "Perna-amarela-pequena",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_yellowlegs"
+  },
+  {
+    "class_name": "3896",
+    "taxon_id": "3896",
+    "sci_name": "Numenius arquata",
+    "common_name": "Maçarico-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_curlew"
+  },
+  {
+    "class_name": "3901",
+    "taxon_id": "3901",
+    "sci_name": "Numenius phaeopus",
+    "common_name": "Maçarico-galego",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Whimbrel"
+  },
+  {
+    "class_name": "3911",
+    "taxon_id": "3911",
+    "sci_name": "Lymnocryptes minimus",
+    "common_name": "Narceja-galega",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Jack_snipe"
+  },
+  {
+    "class_name": "3919",
+    "taxon_id": "3919",
+    "sci_name": "Gallinago media",
+    "common_name": "Narceja-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_snipe"
+  },
+  {
+    "class_name": "3931",
+    "taxon_id": "3931",
+    "sci_name": "Scolopax rusticola",
+    "common_name": "Galinhola",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_woodcock"
+  },
+  {
+    "class_name": "3938",
+    "taxon_id": "3938",
+    "sci_name": "Arenaria interpres",
+    "common_name": "Rola-do-mar",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ruddy_turnstone"
+  },
+  {
+    "class_name": "3947",
+    "taxon_id": "3947",
+    "sci_name": "Limosa limosa",
+    "common_name": "Milherango",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-tailed_godwit"
+  },
+  {
+    "class_name": "3951",
+    "taxon_id": "3951",
+    "sci_name": "Limosa lapponica",
+    "common_name": "Fuselo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bar-tailed_godwit"
+  },
+  {
+    "class_name": "3959",
+    "taxon_id": "3959",
+    "sci_name": "Phalaropus lobatus",
+    "common_name": "Falaropo-de-bico-fino",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-necked_phalarope"
+  },
+  {
+    "class_name": "3962",
+    "taxon_id": "3962",
+    "sci_name": "Bartramia longicauda",
+    "common_name": "Maçarico-do-campo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Upland_sandpiper"
+  },
+  {
+    "class_name": "3969",
+    "taxon_id": "3969",
+    "sci_name": "Xenus cinereus",
+    "common_name": "Maçarico-sovela",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terek_sandpiper"
+  },
+  {
+    "class_name": "3978",
+    "taxon_id": "3978",
+    "sci_name": "Actitis hypoleucos",
+    "common_name": "Maçarico-das-rochas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_sandpiper"
+  },
+  {
+    "class_name": "4055",
+    "taxon_id": "4055",
+    "sci_name": "Pterodroma feae",
+    "common_name": "Gon-gon",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fea's_petrel"
+  },
+  {
+    "class_name": "4058",
+    "taxon_id": "4058",
+    "sci_name": "Pterodroma madeira",
+    "common_name": "Freira-da-madeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Zino's_petrel"
+  },
+  {
+    "class_name": "4093",
+    "taxon_id": "4093",
+    "sci_name": "Puffinus puffinus",
+    "common_name": "Fura-bucho-do-atlântico",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Manx_shearwater"
+  },
+  {
+    "class_name": "41",
+    "taxon_id": "41",
+    "sci_name": "Grus grus",
+    "common_name": "Grou",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_crane"
+  },
+  {
+    "class_name": "411086",
+    "taxon_id": "411086",
+    "sci_name": "Ardea ibis",
+    "common_name": "Garça-Vaqueira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cattle_egret"
+  },
+  {
+    "class_name": "4134",
+    "taxon_id": "4134",
+    "sci_name": "Bulweria bulwerii",
+    "common_name": "Alma-negra",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bulwer's_petrel"
+  },
+  {
+    "class_name": "4146",
+    "taxon_id": "4146",
+    "sci_name": "Oceanites oceanicus",
+    "common_name": "Casquilho",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wilson's_storm_petrel"
+  },
+  {
+    "class_name": "4153",
+    "taxon_id": "4153",
+    "sci_name": "Pelagodroma marina",
+    "common_name": "Calca-mar",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-faced_storm_petrel"
+  },
+  {
+    "class_name": "4170",
+    "taxon_id": "4170",
+    "sci_name": "Hydrobates pelagicus",
+    "common_name": "Alma-de-mestre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_storm_petrel"
+  },
+  {
+    "class_name": "4180",
+    "taxon_id": "4180",
+    "sci_name": "Fulmarus glacialis",
+    "common_name": "Pombalete do Norte",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_fulmar"
+  },
+  {
+    "class_name": "4205",
+    "taxon_id": "4205",
+    "sci_name": "Podiceps nigricollis",
+    "common_name": "Cagarraz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-necked_grebe"
+  },
+  {
+    "class_name": "4208",
+    "taxon_id": "4208",
+    "sci_name": "Podiceps cristatus",
+    "common_name": "Mergulhão-de-poupa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_crested_grebe"
+  },
+  {
+    "class_name": "4209",
+    "taxon_id": "4209",
+    "sci_name": "Podiceps auritus",
+    "common_name": "Mergulhão-de-penachos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Horned_grebe"
+  },
+  {
+    "class_name": "4237",
+    "taxon_id": "4237",
+    "sci_name": "Tachybaptus ruficollis",
+    "common_name": "Mergulhão-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_grebe"
+  },
+  {
+    "class_name": "4246",
+    "taxon_id": "4246",
+    "sci_name": "Podilymbus podiceps",
+    "common_name": "Mergulhão-caçador",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pied-billed_grebe"
+  },
+  {
+    "class_name": "4259",
+    "taxon_id": "4259",
+    "sci_name": "Phoeniconaias minor",
+    "common_name": "Flamingo-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_flamingo"
+  },
+  {
+    "class_name": "4270",
+    "taxon_id": "4270",
+    "sci_name": "Phalacrocorax carbo",
+    "common_name": "Corvo-marinho-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_cormorant"
+  },
+  {
+    "class_name": "4314",
+    "taxon_id": "4314",
+    "sci_name": "Phaethon lepturus",
+    "common_name": "Rabo-de-palha-de-bico-laranja",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-tailed_tropicbird"
+  },
+  {
+    "class_name": "4349",
+    "taxon_id": "4349",
+    "sci_name": "Larus hyperboreus",
+    "common_name": "Gaivotão-branco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Glaucous_gull"
+  },
+  {
+    "class_name": "4356",
+    "taxon_id": "4356",
+    "sci_name": "Larus canus",
+    "common_name": "Famego",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_gull"
+  },
+  {
+    "class_name": "4361",
+    "taxon_id": "4361",
+    "sci_name": "Larus glaucoides",
+    "common_name": "Gaivota-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Iceland_gull"
+  },
+  {
+    "class_name": "4364",
+    "taxon_id": "4364",
+    "sci_name": "Larus delawarensis",
+    "common_name": "Gaivota-de-bico-riscado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ring-billed_gull"
+  },
+  {
+    "class_name": "4368",
+    "taxon_id": "4368",
+    "sci_name": "Larus marinus",
+    "common_name": "Gaivotão-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_black-backed_gull"
+  },
+  {
+    "class_name": "4381",
+    "taxon_id": "4381",
+    "sci_name": "Larus fuscus",
+    "common_name": "Gaivota-d'asa-escura",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_black-backed_gull"
+  },
+  {
+    "class_name": "4388",
+    "taxon_id": "4388",
+    "sci_name": "Larus dominicanus",
+    "common_name": "Gaivotão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kelp_gull"
+  },
+  {
+    "class_name": "4389",
+    "taxon_id": "4389",
+    "sci_name": "Larus cachinnans",
+    "common_name": "Gaivota-do-cáspio",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Caspian_gull"
+  },
+  {
+    "class_name": "4436",
+    "taxon_id": "4436",
+    "sci_name": "Sterna dougallii",
+    "common_name": "Garajau-rosado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Roseate_tern"
+  },
+  {
+    "class_name": "4449",
+    "taxon_id": "4449",
+    "sci_name": "Sterna paradisaea",
+    "common_name": "Garajau-do-árctico",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arctic_tern"
+  },
+  {
+    "class_name": "4450",
+    "taxon_id": "4450",
+    "sci_name": "Sterna hirundo",
+    "common_name": "Garajau-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_tern"
+  },
+  {
+    "class_name": "4457",
+    "taxon_id": "4457",
+    "sci_name": "Sterna forsteri",
+    "common_name": "Garajau-de-forster",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Forster's_tern"
+  },
+  {
+    "class_name": "4481",
+    "taxon_id": "4481",
+    "sci_name": "Stercorarius longicaudus",
+    "common_name": "Moleiro-rabilongo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Long-tailed_jaeger"
+  },
+  {
+    "class_name": "4489",
+    "taxon_id": "4489",
+    "sci_name": "Stercorarius parasiticus",
+    "common_name": "Moleiro-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Parasitic_jaeger"
+  },
+  {
+    "class_name": "4491",
+    "taxon_id": "4491",
+    "sci_name": "Stercorarius pomarinus",
+    "common_name": "Moleiro-do-árctico",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pomarine_jaeger"
+  },
+  {
+    "class_name": "4494",
+    "taxon_id": "4494",
+    "sci_name": "Rissa tridactyla",
+    "common_name": "Gaivota-tridáctila",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-legged_kittiwake"
+  },
+  {
+    "class_name": "4501",
+    "taxon_id": "4501",
+    "sci_name": "Alca torda",
+    "common_name": "Torda-mergulheira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Razorbill"
+  },
+  {
+    "class_name": "4504",
+    "taxon_id": "4504",
+    "sci_name": "Fratercula arctica",
+    "common_name": "Papagaio-do-mar",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Atlantic_puffin"
+  },
+  {
+    "class_name": "4512",
+    "taxon_id": "4512",
+    "sci_name": "Chlidonias niger",
+    "common_name": "Gaivina-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_tern"
+  },
+  {
+    "class_name": "4514",
+    "taxon_id": "4514",
+    "sci_name": "Chlidonias leucopterus",
+    "common_name": "Gaivina-d'asa-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-winged_tern"
+  },
+  {
+    "class_name": "4519",
+    "taxon_id": "4519",
+    "sci_name": "Uria aalge",
+    "common_name": "Airo-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_murre"
+  },
+  {
+    "class_name": "4524",
+    "taxon_id": "4524",
+    "sci_name": "Alle alle",
+    "common_name": "Torda-miúda",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_auk"
+  },
+  {
+    "class_name": "4555",
+    "taxon_id": "4555",
+    "sci_name": "Pagophila eburnea",
+    "common_name": "Gaivota-marfim",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ivory_gull"
+  },
+  {
+    "class_name": "4571",
+    "taxon_id": "4571",
+    "sci_name": "Xema sabini",
+    "common_name": "Gaivota-de-sabine",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sabine's_gull"
+  },
+  {
+    "class_name": "4595",
+    "taxon_id": "4595",
+    "sci_name": "Cursorius cursor",
+    "common_name": "Corredeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cream-coloured_courser"
+  },
+  {
+    "class_name": "4604",
+    "taxon_id": "4604",
+    "sci_name": "Glareola pratincola",
+    "common_name": "Perdiz-do-mar",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Collared_pratincole"
+  },
+  {
+    "class_name": "4623",
+    "taxon_id": "4623",
+    "sci_name": "Gavia arctica",
+    "common_name": "Mobelha-de-garganta-preta",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black-throated_loon"
+  },
+  {
+    "class_name": "4626",
+    "taxon_id": "4626",
+    "sci_name": "Gavia immer",
+    "common_name": "Mobelha-grande",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_loon"
+  },
+  {
+    "class_name": "4627",
+    "taxon_id": "4627",
+    "sci_name": "Gavia stellata",
+    "common_name": "Mobelha-pequena",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-throated_loon"
+  },
+  {
+    "class_name": "4631",
+    "taxon_id": "4631",
+    "sci_name": "Fregata magnificens",
+    "common_name": "Rabiforcado-magnífico",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magnificent_frigatebird"
+  },
+  {
+    "class_name": "4641",
+    "taxon_id": "4641",
+    "sci_name": "Falco vespertinus",
+    "common_name": "Falcão-vespertino",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-footed_falcon"
+  },
+  {
+    "class_name": "4643",
+    "taxon_id": "4643",
+    "sci_name": "Falco subbuteo",
+    "common_name": "Ógea",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_hobby"
+  },
+  {
+    "class_name": "4647",
+    "taxon_id": "4647",
+    "sci_name": "Falco peregrinus",
+    "common_name": "Falcão-peregrino",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Peregrine_falcon"
+  },
+  {
+    "class_name": "4671",
+    "taxon_id": "4671",
+    "sci_name": "Falco eleonorae",
+    "common_name": "Falcão-da-rainha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eleonora's_falcon"
+  },
+  {
+    "class_name": "4672",
+    "taxon_id": "4672",
+    "sci_name": "Falco columbarius",
+    "common_name": "Esmerilhão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Merlin_(bird)"
+  },
+  {
+    "class_name": "4684",
+    "taxon_id": "4684",
+    "sci_name": "Falco biarmicus",
+    "common_name": "Alfaneque",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lanner_falcon"
+  },
+  {
+    "class_name": "472287",
+    "taxon_id": "472287",
+    "sci_name": "Anser anser × cygnoides",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "472764",
+    "taxon_id": "472764",
+    "sci_name": "Falco rupicolus",
+    "common_name": "Peneireiro-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rock_kestrel"
+  },
+  {
+    "class_name": "472766",
+    "taxon_id": "472766",
+    "sci_name": "Falco tinnunculus",
+    "common_name": "Peneireiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_kestrel"
+  },
+  {
+    "class_name": "473",
+    "taxon_id": "473",
+    "sci_name": "Fulica americana",
+    "common_name": "Galeirão-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_coot"
+  },
+  {
+    "class_name": "4733",
+    "taxon_id": "4733",
+    "sci_name": "Ciconia ciconia",
+    "common_name": "Cegonha-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White_stork"
+  },
+  {
+    "class_name": "4736",
+    "taxon_id": "4736",
+    "sci_name": "Ciconia nigra",
+    "common_name": "Cegonha-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_stork"
+  },
+  {
+    "class_name": "474333",
+    "taxon_id": "474333",
+    "sci_name": "Porphyrio madagascariensis",
+    "common_name": "Caimão-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/African_swamphen"
+  },
+  {
+    "class_name": "4744",
+    "taxon_id": "4744",
+    "sci_name": "Mycteria ibis",
+    "common_name": "Tântalo-africano",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow-billed_stork"
+  },
+  {
+    "class_name": "475028",
+    "taxon_id": "475028",
+    "sci_name": "Porphyrio porphyrio",
+    "common_name": "Camão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_swamphen"
+  },
+  {
+    "class_name": "475120",
+    "taxon_id": "475120",
+    "sci_name": "Ardenna gravis",
+    "common_name": "Pardela-de-barrete",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_shearwater"
+  },
+  {
+    "class_name": "4788",
+    "taxon_id": "4788",
+    "sci_name": "Eudromias morinellus",
+    "common_name": "Borrelho-ruivo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_dotterel"
+  },
+  {
+    "class_name": "4793",
+    "taxon_id": "4793",
+    "sci_name": "Charadrius vociferus",
+    "common_name": "Borrelho-de-coleira-dupla",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Killdeer"
+  },
+  {
+    "class_name": "4801",
+    "taxon_id": "4801",
+    "sci_name": "Charadrius hiaticula",
+    "common_name": "Borrelho-grande-de-coleira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_ringed_plover"
+  },
+  {
+    "class_name": "4817",
+    "taxon_id": "4817",
+    "sci_name": "Charadrius semipalmatus",
+    "common_name": "Batuíra-de-bando",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Semipalmated_plover"
+  },
+  {
+    "class_name": "482",
+    "taxon_id": "482",
+    "sci_name": "Fulica atra",
+    "common_name": "Galeirão-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_coot"
+  },
+  {
+    "class_name": "4835",
+    "taxon_id": "4835",
+    "sci_name": "Himantopus himantopus",
+    "common_name": "Pernilongo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-winged_stilt"
+  },
+  {
+    "class_name": "4843",
+    "taxon_id": "4843",
+    "sci_name": "Haematopus ostralegus",
+    "common_name": "Ostraceiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_oystercatcher"
+  },
+  {
+    "class_name": "485176",
+    "taxon_id": "485176",
+    "sci_name": "Mareca americana",
+    "common_name": "Piadeira-americana",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_wigeon"
+  },
+  {
+    "class_name": "4857",
+    "taxon_id": "4857",
+    "sci_name": "Vanellus vanellus",
+    "common_name": "Abibe",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_lapwing"
+  },
+  {
+    "class_name": "4858",
+    "taxon_id": "4858",
+    "sci_name": "Vanellus gregarius",
+    "common_name": "Abibe-sociável",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sociable_lapwing"
+  },
+  {
+    "class_name": "487",
+    "taxon_id": "487",
+    "sci_name": "Fulica cristata",
+    "common_name": "Galeirão-de-crista",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-knobbed_coot"
+  },
+  {
+    "class_name": "4883",
+    "taxon_id": "4883",
+    "sci_name": "Recurvirostra avosetta",
+    "common_name": "Alfaiate",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pied_avocet"
+  },
+  {
+    "class_name": "4889",
+    "taxon_id": "4889",
+    "sci_name": "Pluvialis apricaria",
+    "common_name": "Tarambola-dourada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_golden_plover"
+  },
+  {
+    "class_name": "4892",
+    "taxon_id": "4892",
+    "sci_name": "Pluvialis squatarola",
+    "common_name": "Tarambola-cinzenta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Grey_plover"
+  },
+  {
+    "class_name": "4893",
+    "taxon_id": "4893",
+    "sci_name": "Pluvialis dominica",
+    "common_name": "Batuiriçu",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_golden_plover"
+  },
+  {
+    "class_name": "4896",
+    "taxon_id": "4896",
+    "sci_name": "Pluvialis fulva",
+    "common_name": "Tarambola-dourada-siberiana",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pacific_golden_plover"
+  },
+  {
+    "class_name": "4923",
+    "taxon_id": "4923",
+    "sci_name": "Burhinus oedicnemus",
+    "common_name": "Alcaravão",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_stone-curlew"
+  },
+  {
+    "class_name": "4935",
+    "taxon_id": "4935",
+    "sci_name": "Egretta gularis",
+    "common_name": "Garça-dos-recifes",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Western_reef_heron"
+  },
+  {
+    "class_name": "4937",
+    "taxon_id": "4937",
+    "sci_name": "Egretta caerulea",
+    "common_name": "garça-azul",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Little_blue_heron"
+  },
+  {
+    "class_name": "4938",
+    "taxon_id": "4938",
+    "sci_name": "Egretta tricolor",
+    "common_name": "Garça-tricolor",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tricolored_heron"
+  },
+  {
+    "class_name": "4940",
+    "taxon_id": "4940",
+    "sci_name": "Egretta thula",
+    "common_name": "Garça-branca-americana",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snowy_egret"
+  },
+  {
+    "class_name": "4943",
+    "taxon_id": "4943",
+    "sci_name": "Egretta garzetta",
+    "common_name": "Garça-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_egret"
+  },
+  {
+    "class_name": "4951",
+    "taxon_id": "4951",
+    "sci_name": "Ardea purpurea",
+    "common_name": "Garça-vermelha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Purple_heron"
+  },
+  {
+    "class_name": "4954",
+    "taxon_id": "4954",
+    "sci_name": "Ardea cinerea",
+    "common_name": "Garça-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Grey_heron"
+  },
+  {
+    "class_name": "4956",
+    "taxon_id": "4956",
+    "sci_name": "Ardea herodias",
+    "common_name": "Garça-real-americana",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_blue_heron"
+  },
+  {
+    "class_name": "4981",
+    "taxon_id": "4981",
+    "sci_name": "Nycticorax nycticorax",
+    "common_name": "Savacu",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-crowned_night_heron"
+  },
+  {
+    "class_name": "4994",
+    "taxon_id": "4994",
+    "sci_name": "Ardeola ralloides",
+    "common_name": "Papa-ratos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Squacco_heron"
+  },
+  {
+    "class_name": "4999",
+    "taxon_id": "4999",
+    "sci_name": "Nyctanassa violacea",
+    "common_name": "Savacu-de-coroa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-crowned_night_heron"
+  },
+  {
+    "class_name": "5020",
+    "taxon_id": "5020",
+    "sci_name": "Butorides virescens",
+    "common_name": "Garçote-verde",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Green_heron"
+  },
+  {
+    "class_name": "502899",
+    "taxon_id": "502899",
+    "sci_name": "Ardenna grisea",
+    "common_name": "Pardela-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Sooty_shearwater"
+  },
+  {
+    "class_name": "5033",
+    "taxon_id": "5033",
+    "sci_name": "Botaurus stellaris",
+    "common_name": "Abetouro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_bittern"
+  },
+  {
+    "class_name": "5074",
+    "taxon_id": "5074",
+    "sci_name": "Aquila chrysaetos",
+    "common_name": "Águia-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Golden_eagle"
+  },
+  {
+    "class_name": "507968",
+    "taxon_id": "507968",
+    "sci_name": "Passer domesticus × hispaniolensis",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "5081",
+    "taxon_id": "5081",
+    "sci_name": "Aquila adalberti",
+    "common_name": "Águia-imperial",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spanish_imperial_eagle"
+  },
+  {
+    "class_name": "5083",
+    "taxon_id": "5083",
+    "sci_name": "Aquila nipalensis",
+    "common_name": "Águia-das-estepes",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Steppe_eagle"
+  },
+  {
+    "class_name": "508919",
+    "taxon_id": "508919",
+    "sci_name": "Zapornia parva",
+    "common_name": "Franga-d'água-bastarda",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_crake"
+  },
+  {
+    "class_name": "509656",
+    "taxon_id": "509656",
+    "sci_name": "Calonectris diomedea",
+    "common_name": "Cagarra do Mediterrâneo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scopoli's_shearwater"
+  },
+  {
+    "class_name": "510458",
+    "taxon_id": "510458",
+    "sci_name": "Anas platyrhynchos × Netta rufina",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "5106",
+    "taxon_id": "5106",
+    "sci_name": "Accipiter nisus",
+    "common_name": "Gavião-da-europa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_sparrowhawk"
+  },
+  {
+    "class_name": "513926",
+    "taxon_id": "513926",
+    "sci_name": "Rallus aquaticus",
+    "common_name": "Frango-d'água",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Water_rail"
+  },
+  {
+    "class_name": "514057",
+    "taxon_id": "514057",
+    "sci_name": "Anser anser × Branta canadensis",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "5154",
+    "taxon_id": "5154",
+    "sci_name": "Hieraaetus pennatus",
+    "common_name": "Águia-calçada",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Booted_eagle"
+  },
+  {
+    "class_name": "5167",
+    "taxon_id": "5167",
+    "sci_name": "Circus pygargus",
+    "common_name": "Águia-caçadeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Montagu's_harrier"
+  },
+  {
+    "class_name": "5173",
+    "taxon_id": "5173",
+    "sci_name": "Circus aeruginosus",
+    "common_name": "Águia-sapeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Western_marsh_harrier"
+  },
+  {
+    "class_name": "5178",
+    "taxon_id": "5178",
+    "sci_name": "Circus macrourus",
+    "common_name": "Tartaranhão-pálido",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pallid_harrier"
+  },
+  {
+    "class_name": "518414",
+    "taxon_id": "518414",
+    "sci_name": "Passer domesticus × montanus",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "518415",
+    "taxon_id": "518415",
+    "sci_name": "Anas rubripes × platyrhynchos",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "519",
+    "taxon_id": "519",
+    "sci_name": "Porphyrio martinica",
+    "common_name": "Frango-d'Água-Azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_purple_gallinule"
+  },
+  {
+    "class_name": "5200",
+    "taxon_id": "5200",
+    "sci_name": "Buteo lagopus",
+    "common_name": "Bútio-calçado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rough-legged_buzzard"
+  },
+  {
+    "class_name": "5242",
+    "taxon_id": "5242",
+    "sci_name": "Circaetus gallicus",
+    "common_name": "Águia-cobreira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Short-toed_snake_eagle"
+  },
+  {
+    "class_name": "5267",
+    "taxon_id": "5267",
+    "sci_name": "Milvus milvus",
+    "common_name": "Milhafre-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_kite"
+  },
+  {
+    "class_name": "5268",
+    "taxon_id": "5268",
+    "sci_name": "Milvus migrans",
+    "common_name": "Milhafre-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_kite"
+  },
+  {
+    "class_name": "5275",
+    "taxon_id": "5275",
+    "sci_name": "Elanus caeruleus",
+    "common_name": "Peneireiro-cinzento",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-winged_kite"
+  },
+  {
+    "class_name": "5325",
+    "taxon_id": "5325",
+    "sci_name": "Pernis apivorus",
+    "common_name": "Bútio-vespeiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_honey_buzzard"
+  },
+  {
+    "class_name": "533201",
+    "taxon_id": "533201",
+    "sci_name": "Aythya ferina × nyroca",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "533207",
+    "taxon_id": "533207",
+    "sci_name": "Aythya fuligula × marila",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "533239",
+    "taxon_id": "533239",
+    "sci_name": "Anas bahamensis × platyrhynchos",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "5355",
+    "taxon_id": "5355",
+    "sci_name": "Parabuteo unicinctus",
+    "common_name": "Gavião-asa-de-telha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Harris's_hawk"
+  },
+  {
+    "class_name": "5361",
+    "taxon_id": "5361",
+    "sci_name": "Neophron percnopterus",
+    "common_name": "Abutre-do-egito",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Egyptian_vulture"
+  },
+  {
+    "class_name": "5363",
+    "taxon_id": "5363",
+    "sci_name": "Gyps africanus",
+    "common_name": "Abutre-de-rabadilha-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-backed_vulture"
+  },
+  {
+    "class_name": "5366",
+    "taxon_id": "5366",
+    "sci_name": "Gyps fulvus",
+    "common_name": "Grifo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Griffon_vulture"
+  },
+  {
+    "class_name": "5382",
+    "taxon_id": "5382",
+    "sci_name": "Aegypius monachus",
+    "common_name": "Abutre-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cinereous_vulture"
+  },
+  {
+    "class_name": "545982",
+    "taxon_id": "545982",
+    "sci_name": "Aix sponsa × Anas platyrhynchos",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "546379",
+    "taxon_id": "546379",
+    "sci_name": "Alaudala rufescens",
+    "common_name": "Calhandrinha-das-marismas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_short-toed_lark"
+  },
+  {
+    "class_name": "558426",
+    "taxon_id": "558426",
+    "sci_name": "Anser caerulescens",
+    "common_name": "Ganso-das-neves",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snow_goose"
+  },
+  {
+    "class_name": "558429",
+    "taxon_id": "558429",
+    "sci_name": "Spatula querquedula",
+    "common_name": "Marreco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Garganey"
+  },
+  {
+    "class_name": "558430",
+    "taxon_id": "558430",
+    "sci_name": "Spatula hottentota",
+    "common_name": "Marreco-hotentote",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blue-billed_teal"
+  },
+  {
+    "class_name": "558433",
+    "taxon_id": "558433",
+    "sci_name": "Spatula discors",
+    "common_name": "Marreca-de-asa-azul",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blue-winged_teal"
+  },
+  {
+    "class_name": "558438",
+    "taxon_id": "558438",
+    "sci_name": "Spatula clypeata",
+    "common_name": "Pato-colhereiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_shoveler"
+  },
+  {
+    "class_name": "558439",
+    "taxon_id": "558439",
+    "sci_name": "Mareca strepera",
+    "common_name": "Frisada",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gadwall"
+  },
+  {
+    "class_name": "558440",
+    "taxon_id": "558440",
+    "sci_name": "Mareca falcata",
+    "common_name": "Pato-falcato",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Falcated_duck"
+  },
+  {
+    "class_name": "558441",
+    "taxon_id": "558441",
+    "sci_name": "Mareca penelope",
+    "common_name": "Piadeira-comum",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
+  },
+  {
+    "class_name": "558442",
+    "taxon_id": "558442",
+    "sci_name": "Mareca sibilatrix",
+    "common_name": "Marreca-oveira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chiloé_wigeon"
+  },
+  {
+    "class_name": "558634",
+    "taxon_id": "558634",
+    "sci_name": "Linaria cannabina",
+    "common_name": "Pintarroxo",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_linnet"
+  },
+  {
+    "class_name": "559064",
+    "taxon_id": "559064",
+    "sci_name": "Circus cyaneus",
+    "common_name": "Tartaranhão-azulado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hen_harrier"
+  },
+  {
+    "class_name": "559070",
+    "taxon_id": "559070",
+    "sci_name": "Lanius excubitor",
+    "common_name": "Picanço-real-nortenho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_grey_shrike"
+  },
+  {
+    "class_name": "564408",
+    "taxon_id": "564408",
+    "sci_name": "Anas platyrhynchos × Mareca strepera",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "578093",
+    "taxon_id": "578093",
+    "sci_name": "Calandrella brachydactyla",
+    "common_name": "Calhandrinha-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_short-toed_lark"
+  },
+  {
+    "class_name": "578607",
+    "taxon_id": "578607",
+    "sci_name": "Galerida cristata",
+    "common_name": "Cotovia-de-poupa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Crested_lark"
+  },
+  {
+    "class_name": "59202",
+    "taxon_id": "59202",
+    "sci_name": "Larus michahellis",
+    "common_name": "Gaivota-de-patas-amarelas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow-legged_gull"
+  },
+  {
+    "class_name": "59845",
+    "taxon_id": "59845",
+    "sci_name": "Falco naumanni",
+    "common_name": "Francelho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_kestrel"
+  },
+  {
+    "class_name": "62148",
+    "taxon_id": "62148",
+    "sci_name": "Chlidonias hybrida",
+    "common_name": "Gaivina-dos-pauis",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Whiskered_tern"
+  },
+  {
+    "class_name": "624969",
+    "taxon_id": "624969",
+    "sci_name": "Egretta garzetta × gularis",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "62550",
+    "taxon_id": "62550",
+    "sci_name": "Seiurus aurocapilla",
+    "common_name": "Mariquita-de-coroa-ruiva",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ovenbird"
+  },
+  {
+    "class_name": "64705",
+    "taxon_id": "64705",
+    "sci_name": "Delichon urbicum",
+    "common_name": "Andorinha-dos-beirais",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_house_martin"
+  },
+  {
+    "class_name": "6571",
+    "taxon_id": "6571",
+    "sci_name": "Chaetura pelagica",
+    "common_name": "Rabo-espinhoso",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chimney_swift"
+  },
+  {
+    "class_name": "6612",
+    "taxon_id": "6612",
+    "sci_name": "Apus affinis",
+    "common_name": "Andorinhão-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_swift"
+  },
+  {
+    "class_name": "6619",
+    "taxon_id": "6619",
+    "sci_name": "Apus caffer",
+    "common_name": "Andorinhão-cafre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-rumped_swift"
+  },
+  {
+    "class_name": "6638",
+    "taxon_id": "6638",
+    "sci_name": "Apus apus",
+    "common_name": "Andorinhão-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_swift"
+  },
+  {
+    "class_name": "6642",
+    "taxon_id": "6642",
+    "sci_name": "Apus unicolor",
+    "common_name": "Andorinhão-da-serra",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Plain_swift"
+  },
+  {
+    "class_name": "6643",
+    "taxon_id": "6643",
+    "sci_name": "Apus pallidus",
+    "common_name": "Andorinhão-pálido",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pallid_swift"
+  },
+  {
+    "class_name": "6899",
+    "taxon_id": "6899",
+    "sci_name": "Dendrocygna bicolor",
+    "common_name": "Marreca-caneleira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fulvous_whistling_duck"
+  },
+  {
+    "class_name": "6914",
+    "taxon_id": "6914",
+    "sci_name": "Cygnus atratus",
+    "common_name": "Cisne-preto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black_swan"
+  },
+  {
+    "class_name": "6916",
+    "taxon_id": "6916",
+    "sci_name": "Cygnus cygnus",
+    "common_name": "Cisne-bravo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Whooper_swan"
+  },
+  {
+    "class_name": "6921",
+    "taxon_id": "6921",
+    "sci_name": "Cygnus olor",
+    "common_name": "Cisne-mudo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mute_swan"
+  },
+  {
+    "class_name": "6924",
+    "taxon_id": "6924",
+    "sci_name": "Anas rubripes",
+    "common_name": "Pato-escuro-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/American_black_duck"
+  },
+  {
+    "class_name": "6930",
+    "taxon_id": "6930",
+    "sci_name": "Anas platyrhynchos",
+    "common_name": "Pato-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mallard"
+  },
+  {
+    "class_name": "6933",
+    "taxon_id": "6933",
+    "sci_name": "Anas acuta",
+    "common_name": "Arrabio",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_pintail"
+  },
+  {
+    "class_name": "6937",
+    "taxon_id": "6937",
+    "sci_name": "Anas crecca",
+    "common_name": "Marrequinha",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eurasian_teal"
+  },
+  {
+    "class_name": "6951",
+    "taxon_id": "6951",
+    "sci_name": "Anas bahamensis",
+    "common_name": "Marreca-toicinho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-cheeked_pintail"
+  },
+  {
+    "class_name": "6990",
+    "taxon_id": "6990",
+    "sci_name": "Bucephala clangula",
+    "common_name": "Olho-dourado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_goldeneye"
+  },
+  {
+    "class_name": "6993",
+    "taxon_id": "6993",
+    "sci_name": "Bucephala albeola",
+    "common_name": "Olho-dourado-de-touca",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bufflehead"
+  },
+  {
+    "class_name": "6996",
+    "taxon_id": "6996",
+    "sci_name": "Mergus serrator",
+    "common_name": "Merganso-de-poupa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-breasted_merganser"
+  },
+  {
+    "class_name": "7004",
+    "taxon_id": "7004",
+    "sci_name": "Mergus merganser",
+    "common_name": "Merganso-grande",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_merganser"
+  },
+  {
+    "class_name": "7007",
+    "taxon_id": "7007",
+    "sci_name": "Anser brachyrhynchus",
+    "common_name": "Ganso-de-bico-curto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pink-footed_goose"
+  },
+  {
+    "class_name": "7009",
+    "taxon_id": "7009",
+    "sci_name": "Anser fabalis",
+    "common_name": "Ganso-campestre",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Taiga_bean_goose"
+  },
+  {
+    "class_name": "7013",
+    "taxon_id": "7013",
+    "sci_name": "Anser erythropus",
+    "common_name": "Ganso-pequeno",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_white-fronted_goose"
+  },
+  {
+    "class_name": "7014",
+    "taxon_id": "7014",
+    "sci_name": "Anser cygnoides",
+    "common_name": "Ganso-cisne",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swan_goose"
+  },
+  {
+    "class_name": "7018",
+    "taxon_id": "7018",
+    "sci_name": "Anser anser",
+    "common_name": "Ganso-bravo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greylag_goose"
+  },
+  {
+    "class_name": "7019",
+    "taxon_id": "7019",
+    "sci_name": "Anser albifrons",
+    "common_name": "Ganso-de-testa-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_white-fronted_goose"
+  },
+  {
+    "class_name": "7024",
+    "taxon_id": "7024",
+    "sci_name": "Somateria mollissima",
+    "common_name": "Êider",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_eider"
+  },
+  {
+    "class_name": "7030",
+    "taxon_id": "7030",
+    "sci_name": "Somateria spectabilis",
+    "common_name": "Êider-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/King_eider"
+  },
+  {
+    "class_name": "7036",
+    "taxon_id": "7036",
+    "sci_name": "Melanitta perspicillata",
+    "common_name": "Negrola-de-lunetas",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Surf_scoter"
+  },
+  {
+    "class_name": "7044",
+    "taxon_id": "7044",
+    "sci_name": "Aythya collaris",
+    "common_name": "Caturro",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ring-necked_duck"
+  },
+  {
+    "class_name": "7045",
+    "taxon_id": "7045",
+    "sci_name": "Aythya ferina",
+    "common_name": "Zarro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_pochard"
+  },
+  {
+    "class_name": "7046",
+    "taxon_id": "7046",
+    "sci_name": "Aythya fuligula",
+    "common_name": "Negrinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tufted_duck"
+  },
+  {
+    "class_name": "7047",
+    "taxon_id": "7047",
+    "sci_name": "Aythya marila",
+    "common_name": "Negrelho-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_scaup"
+  },
+  {
+    "class_name": "7054",
+    "taxon_id": "7054",
+    "sci_name": "Aythya affinis",
+    "common_name": "Negrelho-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_scaup"
+  },
+  {
+    "class_name": "7055",
+    "taxon_id": "7055",
+    "sci_name": "Aythya nyroca",
+    "common_name": "Pêrra",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ferruginous_duck"
+  },
+  {
+    "class_name": "7056",
+    "taxon_id": "7056",
+    "sci_name": "Aythya americana",
+    "common_name": "Zarro-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Redhead_(bird)"
+  },
+  {
+    "class_name": "7067",
+    "taxon_id": "7067",
+    "sci_name": "Tadorna tadorna",
+    "common_name": "Tadorna",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_shelduck"
+  },
+  {
+    "class_name": "7068",
+    "taxon_id": "7068",
+    "sci_name": "Tadorna ferruginea",
+    "common_name": "Pato-casarca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ruddy_shelduck"
+  },
+  {
+    "class_name": "7071",
+    "taxon_id": "7071",
+    "sci_name": "Tadorna cana",
+    "common_name": "Tadorna-do-cabo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/South_African_shelduck"
+  },
+  {
+    "class_name": "7081",
+    "taxon_id": "7081",
+    "sci_name": "Oxyura leucocephala",
+    "common_name": "Pato-rabo-alçado",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-headed_duck"
+  },
+  {
+    "class_name": "7087",
+    "taxon_id": "7087",
+    "sci_name": "Branta bernicla",
+    "common_name": "Ganso-de-faces-pretas-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brant_(goose)"
+  },
+  {
+    "class_name": "7089",
+    "taxon_id": "7089",
+    "sci_name": "Branta canadensis",
+    "common_name": "Ganso-do-canadá",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Canada_goose"
+  },
+  {
+    "class_name": "7101",
+    "taxon_id": "7101",
+    "sci_name": "Branta leucopsis",
+    "common_name": "Ganso-marisco",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Barnacle_goose"
+  },
+  {
+    "class_name": "7106",
+    "taxon_id": "7106",
+    "sci_name": "Aix galericulata",
+    "common_name": "Pato-mandarim",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mandarin_duck"
+  },
+  {
+    "class_name": "7107",
+    "taxon_id": "7107",
+    "sci_name": "Aix sponsa",
+    "common_name": "Pato-carolino",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wood_duck"
+  },
+  {
+    "class_name": "7109",
+    "taxon_id": "7109",
+    "sci_name": "Lophodytes cucullatus",
+    "common_name": "Merganso-capuchinho",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hooded_merganser"
+  },
+  {
+    "class_name": "7117",
+    "taxon_id": "7117",
+    "sci_name": "Chloephaga picta",
+    "common_name": "Ganso-de-magalhães",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Upland_goose"
+  },
+  {
+    "class_name": "7120",
+    "taxon_id": "7120",
+    "sci_name": "Cairina moschata",
+    "common_name": "Pato-mudo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Muscovy_duck"
+  },
+  {
+    "class_name": "7122",
+    "taxon_id": "7122",
+    "sci_name": "Netta rufina",
+    "common_name": "Pato-de-bico-vermelho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-crested_pochard"
+  },
+  {
+    "class_name": "7139",
+    "taxon_id": "7139",
+    "sci_name": "Marmaronetta angustirostris",
+    "common_name": "Pardilheira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Marbled_duck"
+  },
+  {
+    "class_name": "7170",
+    "taxon_id": "7170",
+    "sci_name": "Clangula hyemalis",
+    "common_name": "Pato-rabilongo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Long-tailed_duck"
+  },
+  {
+    "class_name": "7176",
+    "taxon_id": "7176",
+    "sci_name": "Chenonetta jubata",
+    "common_name": "Pato-de-crina",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Australian_wood_duck"
+  },
+  {
+    "class_name": "7182",
+    "taxon_id": "7182",
+    "sci_name": "Amazonetta brasiliensis",
+    "common_name": "Marreca-ananaí",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Brazilian_teal"
+  },
+  {
+    "class_name": "7188",
+    "taxon_id": "7188",
+    "sci_name": "Callonetta leucophrys",
+    "common_name": "Marreca-de-coleira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ringed_teal"
+  },
+  {
+    "class_name": "72458",
+    "taxon_id": "72458",
+    "sci_name": "Actitis macularius",
+    "common_name": "Maçarico-pintado",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spotted_sandpiper"
+  },
+  {
+    "class_name": "72486",
+    "taxon_id": "72486",
+    "sci_name": "Alopochen aegyptiaca",
+    "common_name": "Ganso-do-egipto",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Egyptian_goose"
+  },
+  {
+    "class_name": "72516",
+    "taxon_id": "72516",
+    "sci_name": "Tachymarptis melba",
+    "common_name": "Andorinhão-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alpine_swift"
+  },
+  {
+    "class_name": "72572",
+    "taxon_id": "72572",
+    "sci_name": "Bucanetes githagineus",
+    "common_name": "Trombeteiro",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trumpeter_finch"
+  },
+  {
+    "class_name": "7278",
+    "taxon_id": "7278",
+    "sci_name": "Aegithalos caudatus",
+    "common_name": "Chapim-rabilongo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Long-tailed_tit"
+  },
+  {
+    "class_name": "7294",
+    "taxon_id": "7294",
+    "sci_name": "Eremophila alpestris",
+    "common_name": "Calhandra-cornuda",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Horned_lark"
+  },
+  {
+    "class_name": "73149",
+    "taxon_id": "73149",
+    "sci_name": "Parkesia noveboracensis",
+    "common_name": "Mariquita-boreal",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Northern_waterthrush"
+  },
+  {
+    "class_name": "73203",
+    "taxon_id": "73203",
+    "sci_name": "Phalaropus fulicarius",
+    "common_name": "Falaropo-de-bico-grosso",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_phalarope"
+  },
+  {
+    "class_name": "73222",
+    "taxon_id": "73222",
+    "sci_name": "Phoenicopterus roseus",
+    "common_name": "Flamingo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_flamingo"
+  },
+  {
+    "class_name": "73315",
+    "taxon_id": "73315",
+    "sci_name": "Puffinus mauretanicus",
+    "common_name": "Pardela-balear",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Balearic_shearwater"
+  },
+  {
+    "class_name": "7347",
+    "taxon_id": "7347",
+    "sci_name": "Alauda arvensis",
+    "common_name": "Laverca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_skylark"
+  },
+  {
+    "class_name": "73553",
+    "taxon_id": "73553",
+    "sci_name": "Vermivora cyanoptera",
+    "common_name": "Mariquita-d'asa-azul",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blue-winged_warbler"
+  },
+  {
+    "class_name": "7359",
+    "taxon_id": "7359",
+    "sci_name": "Galerida theklae",
+    "common_name": "Cotovia-escura",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thekla's_lark"
+  },
+  {
+    "class_name": "7363",
+    "taxon_id": "7363",
+    "sci_name": "Lullula arborea",
+    "common_name": "Cotovia-dos-bosques",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Woodlark"
+  },
+  {
+    "class_name": "7367",
+    "taxon_id": "7367",
+    "sci_name": "Melanocorypha calandra",
+    "common_name": "Calhandra-real",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Calandra_lark"
+  },
+  {
+    "class_name": "7462",
+    "taxon_id": "7462",
+    "sci_name": "Certhia brachydactyla",
+    "common_name": "Trepadeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Short-toed_treecreeper"
+  },
+  {
+    "class_name": "7647",
+    "taxon_id": "7647",
+    "sci_name": "Cinclus cinclus",
+    "common_name": "Melro-d'água",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White-throated_dipper"
+  },
+  {
+    "class_name": "7697",
+    "taxon_id": "7697",
+    "sci_name": "Cisticola juncidis",
+    "common_name": "Fuinha-dos-juncos",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Zitting_cisticola"
+  },
+  {
+    "class_name": "77",
+    "taxon_id": "77",
+    "sci_name": "Otis tarda",
+    "common_name": "Abetarda",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Great_bustard"
+  },
+  {
+    "class_name": "791",
+    "taxon_id": "791",
+    "sci_name": "Coturnix japonica",
+    "common_name": "Codorna-japonesa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Japanese_quail"
+  },
+  {
+    "class_name": "792977",
+    "taxon_id": "792977",
+    "sci_name": "Dryobates minor",
+    "common_name": "Pica-pau-galego",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_spotted_woodpecker"
+  },
+  {
+    "class_name": "793469",
+    "taxon_id": "793469",
+    "sci_name": "Regulus regulus",
+    "common_name": "Estrelinha-de-poupa",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Goldcrest"
+  },
+  {
+    "class_name": "8010",
+    "taxon_id": "8010",
+    "sci_name": "Corvus corax",
+    "common_name": "Corvo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_raven"
+  },
+  {
+    "class_name": "8029",
+    "taxon_id": "8029",
+    "sci_name": "Corvus frugilegus",
+    "common_name": "Gralha-calva",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rook_(bird)"
+  },
+  {
+    "class_name": "8038",
+    "taxon_id": "8038",
+    "sci_name": "Corvus albus",
+    "common_name": "Gralha-seminarista",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pied_crow"
+  },
+  {
+    "class_name": "804",
+    "taxon_id": "804",
+    "sci_name": "Coturnix coturnix",
+    "common_name": "Codorniz",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_quail"
+  },
+  {
+    "class_name": "8088",
+    "taxon_id": "8088",
+    "sci_name": "Garrulus glandarius",
+    "common_name": "Gaio",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_jay"
+  },
+  {
+    "class_name": "827402",
+    "taxon_id": "827402",
+    "sci_name": "Regulus madeirensis",
+    "common_name": "Bis-bis",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Madeira_firecrest"
+  },
+  {
+    "class_name": "8349",
+    "taxon_id": "8349",
+    "sci_name": "Pyrrhocorax pyrrhocorax",
+    "common_name": "Gralha-de-bico-vermelho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-billed_chough"
+  },
+  {
+    "class_name": "850858",
+    "taxon_id": "850858",
+    "sci_name": "Melanitta fusca",
+    "common_name": "Negrola-d'asa-branca",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Velvet_scoter"
+  },
+  {
+    "class_name": "850859",
+    "taxon_id": "850859",
+    "sci_name": "Oxyura jamaicensis",
+    "common_name": "Pato-de-rabo-alçado-americano",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ruddy_duck"
+  },
+  {
+    "class_name": "867",
+    "taxon_id": "867",
+    "sci_name": "Alectoris rufa",
+    "common_name": "Perdiz-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red-legged_partridge"
+  },
+  {
+    "class_name": "882",
+    "taxon_id": "882",
+    "sci_name": "Gallus gallus",
+    "common_name": "Galo-vermelho",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_junglefowl"
+  },
+  {
+    "class_name": "889637",
+    "taxon_id": "889637",
+    "sci_name": "Agapornis fischeri × personatus",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  },
+  {
+    "class_name": "891696",
+    "taxon_id": "891696",
+    "sci_name": "Pica pica",
+    "common_name": "Pega",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eurasian_magpie"
+  },
+  {
+    "class_name": "891704",
+    "taxon_id": "891704",
+    "sci_name": "Vireo olivaceus",
+    "common_name": "Juruviara-Boreal",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red-eyed_vireo"
+  },
+  {
+    "class_name": "906",
+    "taxon_id": "906",
+    "sci_name": "Meleagris gallopavo",
+    "common_name": "Peru",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Wild_turkey"
+  },
+  {
+    "class_name": "906982",
+    "taxon_id": "906982",
+    "sci_name": "Lanius meridionalis",
+    "common_name": "Picanço-real",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iberian_grey_shrike"
+  },
+  {
+    "class_name": "9188",
+    "taxon_id": "9188",
+    "sci_name": "Emberiza rustica",
+    "common_name": "Escrevedeira-rústica",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rustic_bunting"
+  },
+  {
+    "class_name": "9192",
+    "taxon_id": "9192",
+    "sci_name": "Emberiza cirlus",
+    "common_name": "Escrevedeira",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cirl_bunting"
+  },
+  {
+    "class_name": "9193",
+    "taxon_id": "9193",
+    "sci_name": "Emberiza cia",
+    "common_name": "Cia",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rock_bunting"
+  },
+  {
+    "class_name": "9195",
+    "taxon_id": "9195",
+    "sci_name": "Emberiza citrinella",
+    "common_name": "Escrevedeira-amarela",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellowhammer"
+  },
+  {
+    "class_name": "9196",
+    "taxon_id": "9196",
+    "sci_name": "Emberiza hortulana",
+    "common_name": "Sombria",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ortolan_bunting"
+  },
+  {
+    "class_name": "9197",
+    "taxon_id": "9197",
+    "sci_name": "Emberiza pusilla",
+    "common_name": "Escrevedeira-pequena",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Little_bunting"
+  },
+  {
+    "class_name": "9201",
+    "taxon_id": "9201",
+    "sci_name": "Emberiza schoeniclus",
+    "common_name": "Escrevedeira-dos-caniços",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_reed_bunting"
+  },
+  {
+    "class_name": "9236",
+    "taxon_id": "9236",
+    "sci_name": "Serinus serinus",
+    "common_name": "Milheirinha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_serin"
+  },
+  {
+    "class_name": "9246",
+    "taxon_id": "9246",
+    "sci_name": "Serinus canaria",
+    "common_name": "Canário",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Atlantic_canary"
+  },
+  {
+    "class_name": "9398",
+    "taxon_id": "9398",
+    "sci_name": "Carduelis carduelis",
+    "common_name": "Pintassilgo-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/European_goldfinch"
+  },
+  {
+    "class_name": "9462",
+    "taxon_id": "9462",
+    "sci_name": "Pyrrhula pyrrhula",
+    "common_name": "Dom-fafe",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_bullfinch"
+  },
+  {
+    "class_name": "9721",
+    "taxon_id": "9721",
+    "sci_name": "Geothlypis trichas",
+    "common_name": "Mariquita-de-mascarilha",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_yellowthroat"
+  },
+  {
+    "class_name": "979756",
+    "taxon_id": "979756",
+    "sci_name": "Leiothlypis peregrina",
+    "common_name": "Mariquita-do-tenessi",
+    "group": "Aves",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tennessee_warbler"
+  },
+  {
+    "class_name": "9801",
+    "taxon_id": "9801",
+    "sci_name": "Coccothraustes coccothraustes",
+    "common_name": "Bico-grossudo",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hawfinch"
+  },
+  {
+    "class_name": "981",
+    "taxon_id": "981",
+    "sci_name": "Phasianus colchicus",
+    "common_name": "Faisão-comum",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Common_pheasant"
+  },
+  {
+    "class_name": "9921",
+    "taxon_id": "9921",
+    "sci_name": "Piranga olivacea",
+    "common_name": "Sanhaço-d'asa-preta",
+    "group": "Aves",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scarlet_tanager"
+  },
+  {
+    "class_name": "996767",
+    "taxon_id": "996767",
+    "sci_name": "Chrysolophus amherstiae × Chrysolophus pictus",
+    "common_name": null,
+    "group": "Aves",
+    "wikipedia_url": null
+  }
+]
