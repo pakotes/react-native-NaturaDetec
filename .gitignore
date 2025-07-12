@@ -22,7 +22,7 @@ app/.metro-health-check*
 # debug
 app/npm-debug.*
 # local env files
-app/.env*.local
+app/.env*
 # typescript
 app/*.tsbuildinfo
 
@@ -38,3 +38,4 @@ api/known_faces/
 # folders APP
 ia_service/identify_species/
 ia_service/known_faces/
+
