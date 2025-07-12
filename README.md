@@ -1,4 +1,5 @@
 # Arquitetura do Sistema - NaturaDetec
+Carlos Lopes - Aluno 2217
 
 ## Visão Geral
 
